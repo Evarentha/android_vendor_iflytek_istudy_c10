@@ -1,0 +1,1422 @@
+/ 0 2000 0755
+vendor 0 2000 0755
+vendor/lost+found 0 0 0700 
+vendor/app 0 2000 0755 
+vendor/app/CameraIPControl 0 2000 0755 
+vendor/app/CameraIPControl/CameraIPControl.apk 0 0 0644 
+vendor/app/ModemNotifier 0 2000 0755 
+vendor/app/ModemNotifier/ModemNotifier.apk 0 0 0644 
+vendor/app/SGPS 0 2000 0755 
+vendor/app/SGPS/SGPS.apk 0 0 0644 
+vendor/app/LogManager 0 2000 0755 
+vendor/app/LogManager/LogManager.apk 0 0 0644 
+vendor/bin 0 2000 0755 
+vendor/bin/power 0 2000 0755 
+vendor/bin/power/gpu 0 2000 0755 
+vendor/bin/power/gpu/fix_freq 0 2000 0755 
+vendor/bin/power/gpu/fix_freq/fix_gpu_freq 0 2000 0755 
+vendor/bin/power/gpu/fix_freq/readme 0 2000 0755 
+vendor/bin/power/gpu/loading 0 2000 0755 
+vendor/bin/power/gpu/loading/gpu_loading 0 2000 0755 
+vendor/bin/power/gpu/loading/readme 0 2000 0755 
+vendor/bin/power/gpu/trans_table 0 2000 0755 
+vendor/bin/power/gpu/trans_table/gpu_trans_table 0 2000 0755 
+vendor/bin/power/gpu/trans_table/readme 0 2000 0755 
+vendor/bin/power/interrupt 0 2000 0755 
+vendor/bin/power/interrupt/interrupt 0 2000 0755 
+vendor/bin/power/interrupt/readme 0 2000 0755 
+vendor/bin/power/cpu 0 2000 0755 
+vendor/bin/power/cpu/loading 0 2000 0755 
+vendor/bin/power/cpu/loading/cpu_loading 0 2000 0755 
+vendor/bin/power/cpu/loading/readme 0 2000 0755 
+vendor/bin/power/cpu/trans_table 0 2000 0755 
+vendor/bin/power/cpu/trans_table/cpu_trans_table 0 2000 0755 
+vendor/bin/power/cpu/trans_table/readme 0 2000 0755 
+vendor/bin/power/cpu/fix_freq 0 2000 0755 
+vendor/bin/power/cpu/fix_freq/fix_cpu_freq 0 2000 0755 
+vendor/bin/power/cpu/fix_freq/readme 0 2000 0755 
+vendor/bin/power/cpu/lit_freq 0 2000 0755 
+vendor/bin/power/cpu/lit_freq/lit_cpu_freq 0 2000 0755 
+vendor/bin/power/cpu/lit_freq/readme 0 2000 0755 
+vendor/bin/power/cpu/dvfs 0 2000 0755 
+vendor/bin/power/cpu/dvfs/readme 0 2000 0755 
+vendor/bin/power/cpu/hotplug 0 2000 0755 
+vendor/bin/power/cpu/hotplug/readme 0 2000 0755 
+vendor/bin/power/paras 0 2000 0755 
+vendor/bin/power/paras/tool 0 2000 0755 
+vendor/bin/power/paras/tool/paras 0 2000 0755 
+vendor/bin/power/paras/tool/para.sh 0 2000 0755 
+vendor/bin/power/paras/readme 0 2000 0755 
+vendor/bin/power/ddr 0 2000 0755 
+vendor/bin/power/ddr/fix_freq 0 2000 0755 
+vendor/bin/power/ddr/fix_freq/fix_ddr_freq 0 2000 0755 
+vendor/bin/power/ddr/fix_freq/readme 0 2000 0755 
+vendor/bin/power/ddr/loading 0 2000 0755 
+vendor/bin/power/ddr/loading/ddr_loading 0 2000 0755 
+vendor/bin/power/ddr/loading/readme 0 2000 0755 
+vendor/bin/power/ddr/bm 0 2000 0755 
+vendor/bin/power/ddr/bm/tool 0 2000 0755 
+vendor/bin/power/ddr/bm/tool/ddr_bm 0 2000 0755 
+vendor/bin/power/ddr/bm/tool/ddr_bm_log 0 2000 0755 
+vendor/bin/power/ddr/bm/tool/log_to_csv.sh 0 2000 0755 
+vendor/bin/power/ddr/bm/readme 0 2000 0755 
+vendor/bin/power/ddr/trans_table 0 2000 0755 
+vendor/bin/power/ddr/trans_table/ddr_trans_table 0 2000 0755 
+vendor/bin/power/ddr/trans_table/readme 0 2000 0755 
+vendor/bin/power/tops 0 2000 0755 
+vendor/bin/power/tops/tops 0 2000 0755 
+vendor/bin/power/tops/readme 0 2000 0755 
+vendor/bin/power/backlight 0 2000 0755 
+vendor/bin/power/backlight/readme 0 2000 0755 
+vendor/bin/power/dpu 0 2000 0755 
+vendor/bin/power/dpu/curfreq 0 2000 0755 
+vendor/bin/power/dpu/curfreq/readme 0 2000 0755 
+vendor/bin/power/dpu/dvfstable 0 2000 0755 
+vendor/bin/power/dpu/dvfstable/readme 0 2000 0755 
+vendor/bin/power/dpu/loading 0 2000 0755 
+vendor/bin/power/dpu/loading/readme 0 2000 0755 
+vendor/bin/power/dpu/voteVoltage 0 2000 0755 
+vendor/bin/power/dpu/voteVoltage/readme 0 2000 0755 
+vendor/bin/power/vsp 0 2000 0755 
+vendor/bin/power/vsp/curfreq 0 2000 0755 
+vendor/bin/power/vsp/curfreq/readme 0 2000 0755 
+vendor/bin/power/vsp/dvfstable 0 2000 0755 
+vendor/bin/power/vsp/dvfstable/readme 0 2000 0755 
+vendor/bin/power/vsp/loading 0 2000 0755 
+vendor/bin/power/vsp/loading/readme 0 2000 0755 
+vendor/bin/power/audcpu 0 2000 0755 
+vendor/bin/power/audcpu/curfreq 0 2000 0755 
+vendor/bin/power/audcpu/curfreq/readme 0 2000 0755 
+vendor/bin/power/audcpu/dvfstable 0 2000 0755 
+vendor/bin/power/audcpu/dvfstable/readme 0 2000 0755 
+vendor/bin/power/frame 0 2000 0755 
+vendor/bin/power/frame/fps_sf 0 2000 0755 
+vendor/bin/power/frame/readme 0 2000 0755 
+vendor/bin/power/loadings 0 2000 0755 
+vendor/bin/power/loadings/tool 0 2000 0755 
+vendor/bin/power/loadings/tool/loading.sh 0 2000 0755 
+vendor/bin/power/loadings/readme 0 2000 0755 
+vendor/bin/power/total 0 2000 0755 
+vendor/bin/power/total/tool 0 2000 0755 
+vendor/bin/power/total/tool/total.sh 0 2000 0755 
+vendor/bin/power/total/readme 0 2000 0755 
+vendor/bin/cp_diskserver 0 2000 0755 
+vendor/bin/iqfeed 0 2000 0755 
+vendor/bin/modemd 0 2000 0755 
+vendor/bin/refnotify 0 2000 0755 
+vendor/bin/srtd 0 2000 0755 
+vendor/bin/thermald 0 2000 0755 
+vendor/bin/yloglite 0 2000 0755 
+vendor/bin/yloglitectl 0 2000 0755 
+vendor/bin/yloglitekat 0 2000 0755 
+vendor/bin/hw 0 2000 0755 
+vendor/bin/hw/sprdrild 0 2000 0755 
+vendor/bin/hw/cnn_testbench 0 2000 0755 
+vendor/bin/hw/android.hardware.neuralnetworks@1.2-service-img-nn-hw 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.cplog_connmgr@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.connmgr@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.enhance@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.face@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.ifaa@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.bluetooth.a2dp@1.0-service.unisoc 0 2000 0755 
+vendor/bin/hw/android.hardware.bluetooth@1.0-service.unisoc 0 2000 0755 
+vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service 0 2000 0755 
+vendor/bin/hw/android.hardware.dumpstate@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.gatekeeper@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.configstore@1.1-service 0 2000 0755 
+vendor/bin/hw/android.hardware.graphics.allocator@2.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.light@2.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.health@2.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.memtrack@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.keymaster@3.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.sensors@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.vibrator@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.usb@1.1-service 0 2000 0755 
+vendor/bin/hw/android.hardware.graphics.composer@2.1-service 0 2000 0755 
+vendor/bin/hw/android.hardware.drm@1.1-service.clearkey 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.gnss@2.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.audio@2.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.camera.provider@2.4-service 0 2000 0755 
+vendor/bin/hw/android.hardware.cas@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.drm@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.wifi@1.0-service 0 2000 0755 
+vendor/bin/hw/android.hardware.media.omx@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.log@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.power@3.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.soter@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.aprd@1.0-service 0 2000 0755 
+vendor/bin/hw/vendor.sprd.hardware.thermal@1.0-service 0 2000 0755 
+vendor/bin/hw/hostapd 0 2000 0755 
+vendor/bin/hw/wpa_supplicant 0 2000 0755 
+vendor/bin/pvrdebug 0 2000 0755 
+vendor/bin/pvrhwperf 0 2000 0755 
+vendor/bin/rscompiler 0 2000 0755 
+vendor/bin/mmitp.sh 0 2000 0755 
+vendor/bin/MT_Test_aarch64_60001m 0 2000 0755 
+vendor/bin/awk 0 2000 0755 
+vendor/bin/grep 0 2000 0755 
+vendor/bin/fgrep 0 2000 0755 grep
+vendor/bin/egrep 0 2000 0755 grep
+vendor/bin/gpsd 0 2000 0755 
+vendor/bin/connmgr_cli 0 2000 0755 
+vendor/bin/flush_slog_modem 0 2000 0755 
+vendor/bin/init_expand 0 2000 0755 
+vendor/bin/mlogservice 0 2000 0755 
+vendor/bin/rpmbserver 0 2000 0755 
+vendor/bin/systemDebuggerd 0 2000 0755 
+vendor/bin/ext_data 0 2000 0755 
+vendor/bin/sprdstorageproxyd 0 2000 0755 
+vendor/bin/modem_control 0 2000 0755 
+vendor/bin/enhance_test 0 2000 0755 
+vendor/bin/cplogctl 0 2000 0755 
+vendor/bin/tsupplicant 0 2000 0755 
+vendor/bin/modem_ctrl_dbg 0 2000 0755 
+vendor/bin/phasecheckserver 0 2000 0755 
+vendor/bin/connmgr 0 2000 0755 
+vendor/bin/toybox_vendor 0 2000 0755 
+vendor/bin/acpi 0 2000 0755 toybox_vendor
+vendor/bin/base64 0 2000 0755 toybox_vendor
+vendor/bin/basename 0 2000 0755 toybox_vendor
+vendor/bin/blockdev 0 2000 0755 toybox_vendor
+vendor/bin/cal 0 2000 0755 toybox_vendor
+vendor/bin/cat 0 2000 0755 toybox_vendor
+vendor/bin/chcon 0 2000 0755 toybox_vendor
+vendor/bin/chgrp 0 2000 0755 toybox_vendor
+vendor/bin/chmod 0 2000 0755 toybox_vendor
+vendor/bin/chown 0 2000 0755 toybox_vendor
+vendor/bin/chroot 0 2000 0755 toybox_vendor
+vendor/bin/chrt 0 2000 0755 toybox_vendor
+vendor/bin/cksum 0 2000 0755 toybox_vendor
+vendor/bin/clear 0 2000 0755 toybox_vendor
+vendor/bin/comm 0 2000 0755 toybox_vendor
+vendor/bin/cmp 0 2000 0755 toybox_vendor
+vendor/bin/cp 0 2000 0755 toybox_vendor
+vendor/bin/cpio 0 2000 0755 toybox_vendor
+vendor/bin/cut 0 2000 0755 toybox_vendor
+vendor/bin/charge 0 2000 0755 
+vendor/bin/date 0 2000 0755 toybox_vendor
+vendor/bin/df 0 2000 0755 toybox_vendor
+vendor/bin/diff 0 2000 0755 toybox_vendor
+vendor/bin/dirname 0 2000 0755 toybox_vendor
+vendor/bin/dmesg 0 2000 0755 toybox_vendor
+vendor/bin/dos2unix 0 2000 0755 toybox_vendor
+vendor/bin/du 0 2000 0755 toybox_vendor
+vendor/bin/echo 0 2000 0755 toybox_vendor
+vendor/bin/env 0 2000 0755 toybox_vendor
+vendor/bin/expand 0 2000 0755 toybox_vendor
+vendor/bin/aprctl 0 2000 0755 
+vendor/bin/expr 0 2000 0755 toybox_vendor
+vendor/bin/fallocate 0 2000 0755 toybox_vendor
+vendor/bin/false 0 2000 0755 toybox_vendor
+vendor/bin/file 0 2000 0755 toybox_vendor
+vendor/bin/find 0 2000 0755 toybox_vendor
+vendor/bin/flock 0 2000 0755 toybox_vendor
+vendor/bin/fmt 0 2000 0755 toybox_vendor
+vendor/bin/free 0 2000 0755 toybox_vendor
+vendor/bin/getenforce 0 2000 0755 toybox_vendor
+vendor/bin/groups 0 2000 0755 toybox_vendor
+vendor/bin/gunzip 0 2000 0755 toybox_vendor
+vendor/bin/gzip 0 2000 0755 toybox_vendor
+vendor/bin/head 0 2000 0755 toybox_vendor
+vendor/bin/hostname 0 2000 0755 toybox_vendor
+vendor/bin/hwclock 0 2000 0755 toybox_vendor
+vendor/bin/id 0 2000 0755 toybox_vendor
+vendor/bin/ifconfig 0 2000 0755 toybox_vendor
+vendor/bin/inotifyd 0 2000 0755 toybox_vendor
+vendor/bin/insmod 0 2000 0755 toybox_vendor
+vendor/bin/ionice 0 2000 0755 toybox_vendor
+vendor/bin/iorenice 0 2000 0755 toybox_vendor
+vendor/bin/kill 0 2000 0755 toybox_vendor
+vendor/bin/killall 0 2000 0755 toybox_vendor
+vendor/bin/load_policy 0 2000 0755 toybox_vendor
+vendor/bin/ln 0 2000 0755 toybox_vendor
+vendor/bin/log 0 2000 0755 toybox_vendor
+vendor/bin/logname 0 2000 0755 toybox_vendor
+vendor/bin/losetup 0 2000 0755 toybox_vendor
+vendor/bin/ls 0 2000 0755 toybox_vendor
+vendor/bin/lsmod 0 2000 0755 toybox_vendor
+vendor/bin/lsof 0 2000 0755 toybox_vendor
+vendor/bin/lspci 0 2000 0755 toybox_vendor
+vendor/bin/lsusb 0 2000 0755 toybox_vendor
+vendor/bin/md5sum 0 2000 0755 toybox_vendor
+vendor/bin/mkdir 0 2000 0755 toybox_vendor
+vendor/bin/mkfifo 0 2000 0755 toybox_vendor
+vendor/bin/mknod 0 2000 0755 toybox_vendor
+vendor/bin/mkswap 0 2000 0755 toybox_vendor
+vendor/bin/mktemp 0 2000 0755 toybox_vendor
+vendor/bin/microcom 0 2000 0755 toybox_vendor
+vendor/bin/modinfo 0 2000 0755 toybox_vendor
+vendor/bin/modprobe 0 2000 0755 toybox_vendor
+vendor/bin/more 0 2000 0755 toybox_vendor
+vendor/bin/mount 0 2000 0755 toybox_vendor
+vendor/bin/mountpoint 0 2000 0755 toybox_vendor
+vendor/bin/mv 0 2000 0755 toybox_vendor
+vendor/bin/netstat 0 2000 0755 toybox_vendor
+vendor/bin/nice 0 2000 0755 toybox_vendor
+vendor/bin/nl 0 2000 0755 toybox_vendor
+vendor/bin/nohup 0 2000 0755 toybox_vendor
+vendor/bin/od 0 2000 0755 toybox_vendor
+vendor/bin/paste 0 2000 0755 toybox_vendor
+vendor/bin/patch 0 2000 0755 toybox_vendor
+vendor/bin/pgrep 0 2000 0755 toybox_vendor
+vendor/bin/pidof 0 2000 0755 toybox_vendor
+vendor/bin/pkill 0 2000 0755 toybox_vendor
+vendor/bin/pmap 0 2000 0755 toybox_vendor
+vendor/bin/printenv 0 2000 0755 toybox_vendor
+vendor/bin/printf 0 2000 0755 toybox_vendor
+vendor/bin/ps 0 2000 0755 toybox_vendor
+vendor/bin/pwd 0 2000 0755 toybox_vendor
+vendor/bin/readlink 0 2000 0755 toybox_vendor
+vendor/bin/realpath 0 2000 0755 toybox_vendor
+vendor/bin/renice 0 2000 0755 toybox_vendor
+vendor/bin/restorecon 0 2000 0755 toybox_vendor
+vendor/bin/rm 0 2000 0755 toybox_vendor
+vendor/bin/rmdir 0 2000 0755 toybox_vendor
+vendor/bin/rmmod 0 2000 0755 toybox_vendor
+vendor/bin/runcon 0 2000 0755 toybox_vendor
+vendor/bin/sed 0 2000 0755 toybox_vendor
+vendor/bin/sendevent 0 2000 0755 toybox_vendor
+vendor/bin/seq 0 2000 0755 toybox_vendor
+vendor/bin/setenforce 0 2000 0755 toybox_vendor
+vendor/bin/setprop 0 2000 0755 toybox_vendor
+vendor/bin/setsid 0 2000 0755 toybox_vendor
+vendor/bin/sha1sum 0 2000 0755 toybox_vendor
+vendor/bin/sha224sum 0 2000 0755 toybox_vendor
+vendor/bin/sha256sum 0 2000 0755 toybox_vendor
+vendor/bin/sha384sum 0 2000 0755 toybox_vendor
+vendor/bin/sha512sum 0 2000 0755 toybox_vendor
+vendor/bin/sleep 0 2000 0755 toybox_vendor
+vendor/bin/sort 0 2000 0755 toybox_vendor
+vendor/bin/split 0 2000 0755 toybox_vendor
+vendor/bin/start 0 2000 0755 toybox_vendor
+vendor/bin/stat 0 2000 0755 toybox_vendor
+vendor/bin/stop 0 2000 0755 toybox_vendor
+vendor/bin/strings 0 2000 0755 toybox_vendor
+vendor/bin/stty 0 2000 0755 toybox_vendor
+vendor/bin/swapoff 0 2000 0755 toybox_vendor
+vendor/bin/swapon 0 2000 0755 toybox_vendor
+vendor/bin/sync 0 2000 0755 toybox_vendor
+vendor/bin/sysctl 0 2000 0755 toybox_vendor
+vendor/bin/tac 0 2000 0755 toybox_vendor
+vendor/bin/tail 0 2000 0755 toybox_vendor
+vendor/bin/tar 0 2000 0755 toybox_vendor
+vendor/bin/taskset 0 2000 0755 toybox_vendor
+vendor/bin/tee 0 2000 0755 toybox_vendor
+vendor/bin/time 0 2000 0755 toybox_vendor
+vendor/bin/timeout 0 2000 0755 toybox_vendor
+vendor/bin/top 0 2000 0755 toybox_vendor
+vendor/bin/touch 0 2000 0755 toybox_vendor
+vendor/bin/tr 0 2000 0755 toybox_vendor
+vendor/bin/true 0 2000 0755 toybox_vendor
+vendor/bin/truncate 0 2000 0755 toybox_vendor
+vendor/bin/tty 0 2000 0755 toybox_vendor
+vendor/bin/ulimit 0 2000 0755 toybox_vendor
+vendor/bin/umount 0 2000 0755 toybox_vendor
+vendor/bin/uname 0 2000 0755 toybox_vendor
+vendor/bin/uniq 0 2000 0755 toybox_vendor
+vendor/bin/unix2dos 0 2000 0755 toybox_vendor
+vendor/bin/uptime 0 2000 0755 toybox_vendor
+vendor/bin/usleep 0 2000 0755 toybox_vendor
+vendor/bin/uudecode 0 2000 0755 toybox_vendor
+vendor/bin/uuencode 0 2000 0755 toybox_vendor
+vendor/bin/vmstat 0 2000 0755 toybox_vendor
+vendor/bin/wc 0 2000 0755 toybox_vendor
+vendor/bin/which 0 2000 0755 toybox_vendor
+vendor/bin/whoami 0 2000 0755 toybox_vendor
+vendor/bin/xargs 0 2000 0755 toybox_vendor
+vendor/bin/xxd 0 2000 0755 toybox_vendor
+vendor/bin/yes 0 2000 0755 toybox_vendor
+vendor/bin/zcat 0 2000 0755 toybox_vendor
+vendor/bin/factorytest 0 2000 0755 
+vendor/bin/logwrapper 0 2000 0755 
+vendor/bin/sh 0 2000 0755 
+vendor/bin/toolbox 0 2000 0755 
+vendor/bin/dd 0 2000 0755 toolbox
+vendor/bin/getevent 0 2000 0755 toolbox
+vendor/bin/newfs_msdos 0 2000 0755 toolbox
+vendor/bin/getprop 0 2000 0755 toolbox
+vendor/bin/engpc 0 2000 0755 
+vendor/bin/vndservicemanager 0 2000 0755 
+vendor/bin/vndservice 0 2000 0755 
+vendor/build.prop 0 0 0600 
+vendor/default.prop 0 0 0600 
+vendor/etc 0 2000 0755 
+vendor/etc/init 0 2000 0755 
+vendor/etc/init/cp_diskserver.rc 0 0 0644 
+vendor/etc/init/iqfeed.rc 0 0 0644 
+vendor/etc/init/modemd.rc 0 0 0644 
+vendor/etc/init/refnotify.rc 0 0 0644 
+vendor/etc/init/sprdrild.rc 0 0 0644 
+vendor/etc/init/srtd.rc 0 0 0644 
+vendor/etc/init/thermald.rc 0 0 0644 
+vendor/etc/init/android.hardware.usb@1.1-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.audio@2.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.bluetooth@1.0-service.unisoc.rc 0 0 0644 
+vendor/etc/init/android.hardware.bluetooth.a2dp@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.drm@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.camera.provider@2.4-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.configstore@1.1-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.cas@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.graphics.allocator@2.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.drm@1.1-service.clearkey.rc 0 0 0644 
+vendor/etc/init/android.hardware.health@2.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.keymaster@3.0-service.rc 0 0 0644 
+vendor/etc/init/avc_backtrace.rc 0 0 0644 
+vendor/etc/init/android.hardware.memtrack@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.dumpstate@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.graphics.composer@2.1-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.sensors@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.gatekeeper@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.light@2.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.vibrator@1.0-service.rc 0 0 0644 
+vendor/etc/init/android.hardware.wifi@1.0-service.rc 0 0 0644 
+vendor/etc/init/engpc.rc 0 0 0644 
+vendor/etc/init/factorytest.rc 0 0 0644 
+vendor/etc/init/ext_data.rc 0 0 0644 
+vendor/etc/init/hostapd.android.rc 0 0 0644 
+vendor/etc/init/mlogservice.rc 0 0 0644 
+vendor/etc/init/charge.rc 0 0 0644 
+vendor/etc/init/phasecheckserver.rc 0 0 0644 
+vendor/etc/init/modem_control.rc 0 0 0644 
+vendor/etc/init/rpmbserver_androido.rc 0 0 0644 
+vendor/etc/init/init_expand.rc 0 0 0644 
+vendor/etc/init/tsupplicant.rc 0 0 0644 
+vendor/etc/init/storageproxyd_androidp.rc 0 0 0644 
+vendor/etc/init/systemDebuggerd.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.aprd@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.connmgr@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.enhance@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.cplog_connmgr@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.face@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.log@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.ifaa@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.power@3.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.soter@1.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.gnss@2.0-service.rc 0 0 0644 
+vendor/etc/init/vendor.sprd.hardware.thermal@1.0-service.rc 0 0 0644 
+vendor/etc/init/yloglite.rc 0 0 0644 
+vendor/etc/init/vndservicemanager.rc 0 0 0644 
+vendor/etc/init/hw 0 2000 0755 
+vendor/etc/init/hw/init.storage.rc 0 0 0644 
+vendor/etc/init/hw/init.common.rc 0 0 0644 
+vendor/etc/init/hw/init.ram.rc 0 0 0644 
+vendor/etc/init/hw/init.ud710_21c10.usb.rc 0 0 0644 
+vendor/etc/init/hw/init.ud710_21c10.rc 0 0 0644 
+vendor/etc/init/autotest.rc 0 0 0644 
+vendor/etc/init/init.vibdrv.rc 0 0 0644 
+vendor/etc/init/init.leddrv.rc 0 0 0644 
+vendor/etc/init/img-nn-hal-1-2.rc 0 0 0644 
+vendor/etc/init/camera.rc 0 0 0644 
+vendor/etc/init/init.sprd_flash.rc 0 0 0644 
+vendor/etc/init/bcmbt.rc 0 0 0644 
+vendor/etc/init/init.synaptics_dsx_i2c.rc 0 0 0644 
+vendor/etc/init/init.microarray.rc 0 0 0644 
+vendor/etc/init/wcnd.rc 0 0 0644 
+vendor/etc/init/android.hardware.media.omx@1.0-service.rc 0 0 0644 
+vendor/etc/res 0 2000 0755 
+vendor/etc/res/images 0 2000 0755 
+vendor/etc/res/images/colon_1080X1920.png 0 0 0644 
+vendor/etc/res/images/colon_480X800.png 0 0 0644 
+vendor/etc/res/images/colon_720X1280.png 0 0 0644 
+vendor/etc/res/images/error_1_1080X1920.png 0 0 0644 
+vendor/etc/res/images/colon_1440X2560.png 0 0 0644 
+vendor/etc/res/images/colon_360X640.png 0 0 0644 
+vendor/etc/res/images/error_1_480X800.png 0 0 0644 
+vendor/etc/res/images/error_1_1440X2560.png 0 0 0644 
+vendor/etc/res/images/error_2_1440X2560.png 0 0 0644 
+vendor/etc/res/images/error_2_1080X1920.png 0 0 0644 
+vendor/etc/res/images/error_1_360X640.png 0 0 0644 
+vendor/etc/res/images/error_2_360X640.png 0 0 0644 
+vendor/etc/res/images/error_1_720X1280.png 0 0 0644 
+vendor/etc/res/images/error_2_480X800.png 0 0 0644 
+vendor/etc/res/images/error_2_720X1280.png 0 0 0644 
+vendor/etc/res/images/error_3_1080X1920.png 0 0 0644 
+vendor/etc/res/images/error_3_1440X2560.png 0 0 0644 
+vendor/etc/res/images/error_3_480X800.png 0 0 0644 
+vendor/etc/res/images/error_3_720X1280.png 0 0 0644 
+vendor/etc/res/images/error_3_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate0_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate0.png 0 0 0644 
+vendor/etc/res/images/indeterminate1_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate0_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate0_720X1280.png 0 0 0644 
+vendor/etc/res/images/indeterminate0_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate0_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate2_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate1.png 0 0 0644 
+vendor/etc/res/images/indeterminate1_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate1_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate1_720X1280.png 0 0 0644 
+vendor/etc/res/images/indeterminate1_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate2.png 0 0 0644 
+vendor/etc/res/images/indeterminate2_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate2_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate2_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate2_720X1280.png 0 0 0644 
+vendor/etc/res/images/indeterminate3_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate3.png 0 0 0644 
+vendor/etc/res/images/indeterminate3_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate3_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate4_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate3_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate4.png 0 0 0644 
+vendor/etc/res/images/indeterminate3_720X1280.png 0 0 0644 
+vendor/etc/res/images/indeterminate4_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate4_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate4_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate4_720X1280.png 0 0 0644 
+vendor/etc/res/images/indeterminate5.png 0 0 0644 
+vendor/etc/res/images/indeterminate5_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate5_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate6.png 0 0 0644 
+vendor/etc/res/images/indeterminate6_1080X1920.png 0 0 0644 
+vendor/etc/res/images/indeterminate5_720X1280.png 0 0 0644 
+vendor/etc/res/images/indeterminate5_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate6_1440X2560.png 0 0 0644 
+vendor/etc/res/images/indeterminate5_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate6_480X800.png 0 0 0644 
+vendor/etc/res/images/indeterminate6_360X640.png 0 0 0644 
+vendor/etc/res/images/indeterminate6_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_0_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_0_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_0_360X640.png 0 0 0644 
+vendor/etc/res/images/number_0_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_1_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_0_480X800.png 0 0 0644 
+vendor/etc/res/images/number_1_360X640.png 0 0 0644 
+vendor/etc/res/images/number_1_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_2_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_1_480X800.png 0 0 0644 
+vendor/etc/res/images/number_1_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_2_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_2_480X800.png 0 0 0644 
+vendor/etc/res/images/number_2_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_3_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_3_360X640.png 0 0 0644 
+vendor/etc/res/images/number_3_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_3_480X800.png 0 0 0644 
+vendor/etc/res/images/number_4_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_4_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_4_480X800.png 0 0 0644 
+vendor/etc/res/images/number_3_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_4_360X640.png 0 0 0644 
+vendor/etc/res/images/number_4_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_5_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_5_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_5_480X800.png 0 0 0644 
+vendor/etc/res/images/number_5_360X640.png 0 0 0644 
+vendor/etc/res/images/number_5_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_6_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_6_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_6_360X640.png 0 0 0644 
+vendor/etc/res/images/number_6_480X800.png 0 0 0644 
+vendor/etc/res/images/number_7_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_7_480X800.png 0 0 0644 
+vendor/etc/res/images/number_7_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_6_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_7_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_7_360X640.png 0 0 0644 
+vendor/etc/res/images/number_8_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_8_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_8_360X640.png 0 0 0644 
+vendor/etc/res/images/number_8_480X800.png 0 0 0644 
+vendor/etc/res/images/number_9_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_8_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_9_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_9_360X640.png 0 0 0644 
+vendor/etc/res/images/number_9_480X800.png 0 0 0644 
+vendor/etc/res/images/number_9_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_percent_720X1280.png 0 0 0644 
+vendor/etc/res/images/number_percent_1080X1920.png 0 0 0644 
+vendor/etc/res/images/number_percent_1440X2560.png 0 0 0644 
+vendor/etc/res/images/number_percent_360X640.png 0 0 0644 
+vendor/etc/res/images/number_percent_480X800.png 0 0 0644 
+vendor/etc/selinux 0 2000 0755 
+vendor/etc/selinux/plat_sepolicy_vers.txt 0 0 0644 
+vendor/etc/selinux/vendor_mac_permissions.xml 0 0 0644 
+vendor/etc/selinux/plat_pub_versioned.cil 0 0 0644 
+vendor/etc/selinux/vendor_sepolicy.cil 0 0 0644 
+vendor/etc/selinux/precompiled_sepolicy 0 0 0644 
+vendor/etc/selinux/precompiled_sepolicy.plat_and_mapping.sha256 0 0 0644 
+vendor/etc/selinux/vendor_hwservice_contexts 0 0 0644 
+vendor/etc/selinux/vendor_file_contexts 0 0 0644 
+vendor/etc/selinux/vendor_seapp_contexts 0 0 0644 
+vendor/etc/selinux/vndservice_contexts 0 0 0644 
+vendor/etc/selinux/vendor_property_contexts 0 0 0644 
+vendor/etc/mkshrc 0 0 0644 
+vendor/etc/NotoSansCJK-Regular-sprd.ttc 0 0 0644 
+vendor/etc/seccomp_policy 0 2000 0755 
+vendor/etc/seccomp_policy/configstore@1.1.policy 0 0 0644 
+vendor/etc/seccomp_policy/mediaextractor.policy 0 0 0644 
+vendor/etc/analyzer.py 0 0 0644 
+vendor/etc/wifi 0 2000 0755 
+vendor/etc/wifi/wpa_supplicant.conf 0 0 0644 
+vendor/etc/power_scene_config.xml 0 0 0644 
+vendor/etc/power_resource_file_info.xml 0 0 0644 
+vendor/etc/power_scene_id_define.txt 0 0 0644 
+vendor/etc/ylog.conf.debug 0 0 0644 
+vendor/etc/ylog.conf.user 0 0 0644 
+vendor/etc/yloglitesource.conf 0 0 0644 
+vendor/etc/yloglite.conf 0 0 0644 
+vendor/etc/ylogsource.conf 0 0 0644 
+vendor/etc/public.libraries.txt 0 0 0644 
+vendor/etc/audio_effects.conf 0 0 0644 
+vendor/etc/fstab.enableswap 0 0 0644 
+vendor/etc/adb.iso 0 0 0644 
+vendor/etc/thermal.conf 0 0 0644 
+vendor/etc/tf_models 0 2000 0755 
+vendor/etc/tf_models/deeplabv3plus0.tflite 0 0 0644 
+vendor/etc/tf_models/deeplabv3plus.tflite 0 0 0644 
+vendor/etc/tf_models/deeplabv3plus1.tflite 0 0 0644 
+vendor/etc/cat.f32 0 0 0644 
+vendor/etc/mapconfig.json 0 0 0644 
+vendor/etc/inceptionv3_mbs.bin 0 0 0644 
+vendor/etc/hwconfig.json 0 0 0644 
+vendor/etc/sprd_hdr_tuning.param 0 0 0644 
+vendor/etc/PCBA.conf 0 0 0644 
+vendor/etc/fstab.ud710_21c10 0 0 0644 
+vendor/etc/BBAT.conf 0 0 0644 
+vendor/etc/slog_modem.conf 0 0 0644 
+vendor/etc/slog_modem_cali.conf 0 0 0644 
+vendor/etc/slog_modem_factory.conf 0 0 0644 
+vendor/etc/slog_modem_autotest.conf 0 0 0644 
+vendor/etc/mlogservice.conf 0 0 0644 
+vendor/etc/spirentroot.cer 0 0 0644 
+vendor/etc/Default.dat 0 0 0644 
+vendor/etc/permissions 0 2000 0755 
+vendor/etc/permissions/android.hardware.touchscreen.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.touchscreen.multitouch.distinct.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.usb.accessory.xml 0 0 0644 
+vendor/etc/permissions/android.software.midi.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.vulkan.level-0.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.telephony.gsm.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.usb.host.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.vulkan.compute-0.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.vulkan.version-1_0_3.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.bluetooth_le.xml 0 0 0644 
+vendor/etc/permissions/handheld_core_hardware.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.vulkan.version-1_1.xml 0 0 0644 
+vendor/etc/permissions/android.software.cts.xml 0 0 0644 
+vendor/etc/permissions/vendor.sprd.hardware.faceid.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.wifi.direct.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.wifi.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.opengles.aep.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.camera.flash-autofocus.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.camera.front.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.compass.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.accelerometer.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.stepcounter.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.gyroscope.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.stepdetector.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.proximity.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.sensor.light.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.fingerprint.xml 0 0 0644 
+vendor/etc/permissions/android.hardware.location.gps.xml 0 0 0644 
+vendor/etc/permissions/android.software.verified_boot.xml 0 0 0644 
+vendor/etc/media_codecs_google_telephony.xml 0 0 0644 
+vendor/etc/media_codecs.xml 0 0 0644 
+vendor/etc/media_codecs_google_video.xml 0 0 0644 
+vendor/etc/media_profiles_turnkey.xml 0 0 0644 
+vendor/etc/media_codecs_google_audio.xml 0 0 0644 
+vendor/etc/media_codecs_performance.xml 0 0 0644 
+vendor/etc/audio_effects.xml 0 0 0644 
+vendor/etc/media_profiles_V1_0.xml 0 0 0644 
+vendor/etc/enhance 0 2000 0755 
+vendor/etc/enhance/abc.xml 0 0 0644 
+vendor/etc/enhance/gamma.xml 0 0 0644 
+vendor/etc/enhance/cms.xml 0 0 0644 
+vendor/etc/enhance/bld.xml 0 0 0644 
+vendor/etc/sensor_config.xml 0 0 0644 
+vendor/etc/audio_config.xml 0 0 0644 
+vendor/etc/audio_params 0 2000 0755 
+vendor/etc/audio_params/sprd 0 2000 0755 
+vendor/etc/audio_params/sprd/audioparam_config.xml 0 0 0644 
+vendor/etc/audio_params/sprd/audio_pga.xml 0 0 0644 
+vendor/etc/audio_params/sprd/audio_process.xml 0 0 0644 
+vendor/etc/audio_params/sprd/dsp_vbc.xml 0 0 0644 
+vendor/etc/audio_params/sprd/codec.xml 0 0 0644 
+vendor/etc/audio_params/sprd/audio_structure.xml 0 0 0644 
+vendor/etc/audio_params/sprd/cvs.xml 0 0 0644 
+vendor/etc/modem_cp_info.xml 0 0 0644 
+vendor/etc/audio_route.xml 0 0 0644 
+vendor/etc/modem_dp_info.xml 0 0 0644 
+vendor/etc/audio_pcm.xml 0 0 0644 
+vendor/etc/modem_sp_info.xml 0 0 0644 
+vendor/etc/primary_audio_policy_configuration.xml 0 0 0644 
+vendor/etc/a2dp_audio_policy_configuration.xml 0 0 0644 
+vendor/etc/audio_policy_volumes.xml 0 0 0644 
+vendor/etc/audio_policy_configuration.xml 0 0 0644 
+vendor/etc/usb_audio_policy_configuration.xml 0 0 0644 
+vendor/etc/r_submix_audio_policy_configuration.xml 0 0 0644 
+vendor/etc/default_volume_tables.xml 0 0 0644 
+vendor/etc/supl.xml 0 0 0644 
+vendor/etc/config.xml 0 0 0644 
+vendor/etc/fs_config_dirs 0 0 0000 
+vendor/etc/fs_config_files 0 0 0000 
+vendor/etc/vintf 0 2000 0755 
+vendor/etc/vintf/compatibility_matrix.xml 0 0 0644 
+vendor/etc/vintf/manifest.xml 0 0 0644 
+vendor/etc/NOTICE.xml.gz 0 0 0644 
+vendor/firmware 0 2000 0755 
+vendor/firmware/dsp_vbc 0 0 0644 /data/vendor/local/media/audio_params/dsp_vbc
+vendor/firmware/cvs 0 0 0644 /data/vendor/local/media/audio_params/cvs
+vendor/firmware/audio_structure 0 0 0644 /data/vendor/local/media/audio_params/audio_structure
+vendor/firmware/dsp_smartamp 0 0 0644 /data/vendor/local/media/audio_params/dsp_smartamp
+vendor/firmware/rgx.fw.signed.24.50.208.504 0 0 0644 
+vendor/firmware/rgx.fw.24.50.208.504 0 0 0644 rgx.fw.signed.24.50.208.504
+vendor/firmware/faceid.elf 0 0 0644 
+vendor/firmware/BCM4362A2_001.003.006.0021.0023_sLNA_iLNA_CL1.hcd 0 0 0644 
+vendor/firmware/nvram_bcm43752a2_pcie_ag.txt 0 0 0644 
+vendor/firmware/fw_pcie_mfgtest.bin 0 0 0644 
+vendor/firmware/fw_bcm43752a2_pcie_ag_mfg.bin 0 0 0644 
+vendor/firmware/config.txt 0 0 0644 
+vendor/firmware/clm_bcm43752a2_pcie_ag.blob 0 0 0644 
+vendor/firmware/fw_bcm43752a2_pcie_ag.bin 0 0 0644 
+vendor/firmware/goodix_cfg_group.bin 0 0 0644 
+vendor/firmware/tademo.elf 0 0 0644 
+vendor/firmware/aw8898_cfg.bin 0 0 0644 
+vendor/firmware/goodix_firmware.bin 0 0 0644 
+vendor/firmware/EXEC_CALIBRATE_MAG_IMAGE 0 0 0644 
+vendor/firmware/aw8898_l_cfg.bin 0 0 0644 
+vendor/firmware/sktPreset.sat 0 0 0644 
+vendor/firmware/aw8898_r_cfg.bin 0 0 0644 
+vendor/firmware/awinic_params.bin 0 0 0644 
+vendor/firmware/cae.ini 0 0 0644 
+vendor/firmware/mlp_aes_1024.bin 0 0 0644 
+vendor/firmware/mafp.elf 0 0 0644 
+vendor/lib 0 2000 0755 
+vendor/lib/npidevice 0 2000 0755 
+vendor/lib/npidevice/libFactoryRadioTest.so 0 0 0644 
+vendor/lib/npidevice/libreadfixednv.so 0 0 0644 
+vendor/lib/npidevice/autotestfinger.so 0 0 0644 
+vendor/lib/npidevice/autotestsensorinfo.so 0 0 0644 
+vendor/lib/npidevice/libbdcomwifi.so 0 0 0644 
+vendor/lib/npidevice/autotestgps.so 0 0 0644 
+vendor/lib/npidevice/autotestnfc.so 0 0 0644 
+vendor/lib/npidevice/autotesttcard.so 0 0 0644 
+vendor/lib/npidevice/libcharge.so 0 0 0644 
+vendor/lib/npidevice/libapdeepsleep.so 0 0 0644 
+vendor/lib/npidevice/libbt-sprd_eut.so 0 0 0644 
+vendor/lib/npidevice/libcheckkeybox.so 0 0 0644 
+vendor/lib/npidevice/libcomcontrol.so 0 0 0644 
+vendor/lib/npidevice/libdcxcali.so 0 0 0644 
+vendor/lib/npidevice/libchipid.so 0 0 0644 
+vendor/lib/npidevice/libftmode.so 0 0 0644 
+vendor/lib/npidevice/libgetuid.so 0 0 0644 
+vendor/lib/npidevice/libgpio.so 0 0 0644 
+vendor/lib/npidevice/libusbtypec.so 0 0 0644 
+vendor/lib/npidevice/nativemmifinger.so 0 0 0644 
+vendor/lib/npidevice/librebootcmd.so 0 0 0644 
+vendor/lib/npidevice/libtsxrawdata.so 0 0 0644 
+vendor/lib/npidevice/liblkvnpi.so 0 0 0644 
+vendor/lib/npidevice/libcamcalitest.so 0 0 0644 /vendor/lib/libcamcalitest.so
+vendor/lib/npidevice/libnpi_rtc.so 0 0 0644 /vendor/lib/libnpi_rtc.so
+vendor/lib/npidevice/lib_npitest_ai.so 0 0 0644 
+vendor/lib/npidevice/libgpspc.so 0 0 0644 
+vendor/lib/npidevice/autotestwifi.so 0 0 0644 
+vendor/lib/npidevice/libsensornpi.so 0 0 0644 /vendor/lib/libsensornpi.so
+vendor/lib/npidevice/libaudionpi.so 0 0 0644 /vendor/lib/libaudionpi.so
+vendor/lib/npidevice/PQTune.ud710.so 0 0 0644 
+vendor/lib/npidevice/liblcdnpi.so 0 0 0644 
+vendor/lib/npidevice/libkeypadnpi.so 0 0 0644 
+vendor/lib/npidevice/autotestsim.so 0 0 0644 
+vendor/lib/libifaacheck.so 0 0 0644 
+vendor/lib/libjpeg_hw_sprd.so 0 0 0644 
+vendor/lib/libmulticam.so 0 0 0644 
+vendor/lib/libomx_avcdec_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_avcdec_sw_sprd.so 0 0 0644 
+vendor/lib/libomx_avcdec_vt_sprd.so 0 0 0644 
+vendor/lib/libomx_avcenc_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_hevcdec_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_hevcenc_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_m4vh263dec_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_m4vh263dec_sw_sprd.so 0 0 0644 
+vendor/lib/libomx_m4vh263enc_sw_sprd.so 0 0 0644 
+vendor/lib/libomx_mp3dec_sprd.so 0 0 0644 
+vendor/lib/libomx_mp3enc_sprd.so 0 0 0644 
+vendor/lib/libomx_vp9dec_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_vpxdec_hw_sprd.so 0 0 0644 
+vendor/lib/libomx_vpxenc_hw_sprd.so 0 0 0644 
+vendor/lib/libril_threads.so 0 0 0644 
+vendor/lib/librilsprd-single.so 0 0 0644 
+vendor/lib/librilsprd.so 0 0 0644 
+vendor/lib/libsprd-ril-single.so 0 0 0644 
+vendor/lib/libsprd-ril.so 0 0 0644 
+vendor/lib/libuepolicy.so 0 0 0644 
+vendor/lib/hw 0 2000 0755 
+vendor/lib/hw/face.default.so 0 0 0644 
+vendor/lib/hw/ifaa.default.so 0 0 0644 
+vendor/lib/hw/awinic.audio.effect.so 0 0 0644 
+vendor/lib/hw/audio.primary.default.so 0 0 0644 
+vendor/lib/hw/audio.usb.default.so 0 0 0644 
+vendor/lib/hw/gatekeeper.default.so 0 0 0644 
+vendor/lib/hw/memtrack.ud710.so 0 0 0644 
+vendor/lib/hw/gralloc.ud710.so 0 0 0644 
+vendor/lib/hw/vulkan.ud710.so 0 0 0644 
+vendor/lib/hw/enhance.ud710.so 0 0 0644 
+vendor/lib/hw/gralloc.default.so 0 0 0644 
+vendor/lib/hw/lights.ud710.so 0 0 0644 
+vendor/lib/hw/vibrator.ud710.so 0 0 0644 
+vendor/lib/hw/fingerprint.default.so 0 0 0644 
+vendor/lib/hw/keystore.sprdtrusty.so 0 0 0644 
+vendor/lib/hw/keystore.ud710.so 0 0 0644 keystore.sprdtrusty.so
+vendor/lib/hw/audio.r_submix.default.so 0 0 0644 
+vendor/lib/hw/gps.default.so 0 0 0644 
+vendor/lib/hw/sensors.ud710.so 0 0 0644 
+vendor/lib/hw/android.hardware.bluetooth@1.0-impl-unisoc.so 0 0 0644 
+vendor/lib/hw/android.hardware.audio@4.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.audio.effect@4.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.bluetooth.a2dp@1.0-impl-unisoc.so 0 0 0644 
+vendor/lib/hw/android.hardware.broadcastradio@1.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.gatekeeper@1.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.graphics.allocator@2.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.graphics.mapper@2.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.graphics.composer@2.1-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.memtrack@1.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.light@2.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.soundtrigger@2.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.renderscript@1.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.vibrator@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.enhance@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.connmgr@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.cplog_connmgr@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.fingerprintmmi@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.ifaa@1.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.health@1.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.keymaster@3.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.gnss@2.0-impl.so 0 0 0644 
+vendor/lib/hw/android.hardware.drm@1.0-impl.so 0 0 0644 
+vendor/lib/hw/dpu.ud710.so 0 0 0644 
+vendor/lib/hw/gsp.ud710.so 0 0 0644 
+vendor/lib/hw/android.hardware.camera.provider@2.4-impl-sprd.so 0 0 0644 
+vendor/lib/hw/local_time.default.so 0 0 0644 
+vendor/lib/hw/android.hardware.sensors@1.0-impl.so 0 0 0644 
+vendor/lib/hw/power.default.so 0 0 0644 
+vendor/lib/hw/thermal.default.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.log@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.power@3.0-impl.so 0 0 0644 
+vendor/lib/hw/hwcomposer.ud710.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.thermal@1.0-impl.so 0 0 0644 
+vendor/lib/hw/audio.primary.ud710.so 0 0 0644 
+vendor/lib/hw/vendor.sprd.hardware.aprd@1.0-impl.so 0 0 0644 
+vendor/lib/hw/vibrator.default.so 0 0 0644 
+vendor/lib/hw/camera.ud710.so 0 0 0644 
+vendor/lib/libatm.so 0 0 0644 
+vendor/lib/libinfo.so 0 0 0644 
+vendor/lib/libverify.so 0 0 0644 
+vendor/lib/libsupl.so 0 0 0644 
+vendor/lib/liblcsmgt.so 0 0 0644 
+vendor/lib/liblcscp.so 0 0 0644 
+vendor/lib/liblcswbxml2.so 0 0 0644 
+vendor/lib/liblcsagent.so 0 0 0644 
+vendor/lib/libnavcore.so 0 0 0644 
+vendor/lib/lib4mic_xxj.so 0 0 0644 
+vendor/lib/libfactorylib.so 0 0 0644 
+vendor/lib/libfprint-x32.so 0 0 0644 
+vendor/lib/modules 0 2000 0755 
+vendor/lib/modules/bcmdhd.ko 0 0 0644 
+vendor/lib/modules/dhd_static_buf.ko 0 0 0644 
+vendor/lib/modules/bcmbt_power.ko 0 0 0644 
+vendor/lib/modules/bcmbt_sleep.ko 0 0 0644 
+vendor/lib/modules/flash_ic_sc2703.ko 0 0 0644 
+vendor/lib/modules/flash_ic_aw3642.ko 0 0 0644 
+vendor/lib/modules/microarray_fp.ko 0 0 0644 
+vendor/lib/modules/gpio_test.ko 0 0 0644 
+vendor/lib/modules/flash_ic_ocp8137.ko 0 0 0644 
+vendor/lib/modules/sprd_flash_drv.ko 0 0 0644 
+vendor/lib/modules/sprd_cpp.ko 0 0 0644 
+vendor/lib/modules/ssd20xx_ts.ko 0 0 0644 
+vendor/lib/modules/img_mem.ko 0 0 0644 
+vendor/lib/modules/vha.ko 0 0 0644 
+vendor/lib/modules/synaptics_dsx_td4310.ko 0 0 0644 
+vendor/lib/modules/mmdvfs.ko 0 0 0644 
+vendor/lib/modules/sprd_sensor.ko 0 0 0644 
+vendor/lib/modules/sprd_fd.ko 0 0 0644 
+vendor/lib/modules/sprd_camera.ko 0 0 0644 
+vendor/lib/modules/pvrsrvkm.ko 0 0 0644 
+vendor/lib/libavservices_minijail_vendor.so 0 0 0644 
+vendor/lib/egl 0 2000 0755 
+vendor/lib/egl/libEGL_POWERVR_ROGUE.so 0 0 0644 
+vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so 0 0 0644 
+vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so 0 0 0644 
+vendor/lib/libtrusty.so 0 0 0644 
+vendor/lib/libfmjni.so 0 0 0644 
+vendor/lib/libalsautils.so 0 0 0644 
+vendor/lib/libhwc2onfbadapter.so 0 0 0644 
+vendor/lib/libeffectsconfig.so 0 0 0644 
+vendor/lib/libiflytekeffect.so 0 0 0644 
+vendor/lib/libnnaruntime.so 0 0 0644 
+vendor/lib/libtdnsTest.so 0 0 0644 
+vendor/lib/libsprdcnr.so 0 0 0644 
+vendor/lib/libSprdImageFilter.so 0 0 0644 
+vendor/lib/libeffects.so 0 0 0644 
+vendor/lib/libsprdfacebeauty_vdsp.so 0 0 0644 
+vendor/lib/libsprdfd.so 0 0 0644 
+vendor/lib/libsprdfacebeauty.so 0 0 0644 
+vendor/lib/libsprdfa.so 0 0 0644 
+vendor/lib/libengfm.so 0 0 0644 
+vendor/lib/librilutils.so 0 0 0644 
+vendor/lib/librpmbclient.so 0 0 0644 
+vendor/lib/libreaduid.so 0 0 0644 
+vendor/lib/libbm.so 0 0 0644 
+vendor/lib/libtracedump.so 0 0 0644 
+vendor/lib/libwpa_client.so 0 0 0644 
+vendor/lib/libunisocpreprocessing.so 0 0 0644 
+vendor/lib/libtinyxml.so 0 0 0644 
+vendor/lib/libSprd3dnrAdapter.so 0 0 0644 
+vendor/lib/libcamcommon.so 0 0 0644 
+vendor/lib/libsprdcnradapter.so 0 0 0644 
+vendor/lib/libcamfb.so 0 0 0644 
+vendor/lib/libsprdfarcnn.so 0 0 0644 
+vendor/lib/libsprdhdr.so 0 0 0644 
+vendor/lib/libgyrostab.so 0 0 0644 
+vendor/lib/libSegLite.so 0 0 0644 
+vendor/lib/libinterface.so 0 0 0644 
+vendor/lib/libbokeh_gaussian.so 0 0 0644 
+vendor/lib/libbokeh_gaussian_cap.so 0 0 0644 
+vendor/lib/libBokeh2Frames.so 0 0 0644 
+vendor/lib/libXMPCore.so 0 0 0644 
+vendor/lib/libXMPFiles.so 0 0 0644 
+vendor/lib/libsprdbokeh.so 0 0 0644 
+vendor/lib/libsprddepth.so 0 0 0644 
+vendor/lib/libbokeh_depth.so 0 0 0644 
+vendor/lib/libyuv420_scaler.so 0 0 0644 
+vendor/lib/libsprd_portrait_cap.so 0 0 0644 
+vendor/lib/libSegLiteMNN.so 0 0 0644 
+vendor/lib/libWT.so 0 0 0644 
+vendor/lib/libdrm.so 0 0 0644 
+vendor/lib/libomx_cabc_sw_sprd.so 0 0 0644 
+vendor/lib/libteeproduction.so 0 0 0644 
+vendor/lib/libIMGegl.so 0 0 0644 
+vendor/lib/libPVROCL.so 0 0 0644 
+vendor/lib/libPVRRS.so 0 0 0644 
+vendor/lib/libPVRScopeServices.so 0 0 0644 
+vendor/lib/libSprdPdAlgo.so 0 0 0644 
+vendor/lib/libsprdhdradapter.so 0 0 0644 
+vendor/lib/libcamfacebeauty.so 0 0 0644 
+vendor/lib/libkey.so 0 0 0644 
+vendor/lib/libae.so 0 0 0644 
+vendor/lib/libae3.x.so 0 0 0644 
+vendor/lib/libalsc.so 0 0 0644 
+vendor/lib/libawb.so 0 0 0644 
+vendor/lib/libdeflicker.so 0 0 0644 
+vendor/lib/libcreatesurface.so 0 0 0644 
+vendor/lib/libawb1.so 0 0 0644 
+vendor/lib/libflash.so 0 0 0644 
+vendor/lib/libfcell.so 0 0 0644 
+vendor/lib/libglslcompiler.so 0 0 0644 
+vendor/lib/libhdr.so 0 0 0644 
+vendor/lib/libsprdaic.so 0 0 0644 
+vendor/lib/libsprdscenedetect.so 0 0 0644 
+vendor/lib/libspcaftrigger.so 0 0 0644 
+vendor/lib/libspafv1.so 0 0 0644 
+vendor/lib/libsrv_um.so 0 0 0644 
+vendor/lib/enhance.ud710.so 0 0 0644 ./hw/enhance.ud710.so
+vendor/lib/libsutu_display.so 0 0 0644 
+vendor/lib/libtqvalidate.so 0 0 0644 
+vendor/lib/libufwriter.so 0 0 0644 
+vendor/lib/libefuse.so 0 0 0644 
+vendor/lib/libusc.so 0 0 0644 
+vendor/lib/libbt-vendor.so 0 0 0644 
+vendor/lib/libeng_tok.so 0 0 0644 
+vendor/lib/libsoter_trusty.so 0 0 0644 
+vendor/lib/libsprd_fcell.so 0 0 0644 
+vendor/lib/production 0 2000 0755 
+vendor/lib/production/libpubefuseapi.so 0 0 0644 
+vendor/lib/soundfx 0 2000 0755 
+vendor/lib/soundfx/libdownmix.so 0 0 0644 
+vendor/lib/soundfx/libbundlewrapper.so 0 0 0644 
+vendor/lib/soundfx/libdynproc.so 0 0 0644 
+vendor/lib/soundfx/libldnhncr.so 0 0 0644 
+vendor/lib/soundfx/libreverbwrapper.so 0 0 0644 
+vendor/lib/soundfx/libvisualizer.so 0 0 0644 
+vendor/lib/soundfx/libeffectproxy.so 0 0 0644 
+vendor/lib/soundfx/libsprdvoiceprocessing.so 0 0 0644 
+vendor/lib/soundfx/libaudiopreprocessing.so 0 0 0644 
+vendor/lib/libhwc2on1adapter.so 0 0 0644 
+vendor/lib/libtinycompress.so 0 0 0644 
+vendor/lib/libnbaio_mono.so 0 0 0644 
+vendor/lib/libiwnpi.so 0 0 0644 
+vendor/lib/libsprdaudiohal_deathhandler.so 0 0 0644 
+vendor/lib/libmemion.so 0 0 0644 
+vendor/lib/libcambr.so 0 0 0644 
+vendor/lib/libbt-sprd_suite.so 0 0 0644 
+vendor/lib/libtinycompress_util.so 0 0 0644 
+vendor/lib/libcam_otp_parser.so 0 0 0644 
+vendor/lib/libcampm.so 0 0 0644 
+vendor/lib/libcamperf.so 0 0 0644 
+vendor/lib/libcamdrv.so 0 0 0644 
+vendor/lib/libsensorsdrvcfg.so 0 0 0644 
+vendor/lib/libsensorlistcfg.so 0 0 0644 
+vendor/lib/libsprdfd_hw.so 0 0 0644 
+vendor/lib/libmapuser.so 0 0 0644 
+vendor/lib/libfaceid_tee.so 0 0 0644 
+vendor/lib/libcamcalitest.so 0 0 0644 
+vendor/lib/libnpi_rtc.so 0 0 0644 
+vendor/lib/libparam_hi846_front.so 0 0 0644 
+vendor/lib/libparam_gc8034_rear.so 0 0 0644 
+vendor/lib/libengbt.so 0 0 0644 
+vendor/lib/libparam_hi846.so 0 0 0644 
+vendor/lib/liblowi_wifihal.so 0 0 0644 
+vendor/lib/libparam_gc8034.so 0 0 0644 
+vendor/lib/libparam_ov02b10.so 0 0 0644 
+vendor/lib/libwifi-hal.so 0 0 0644 
+vendor/lib/camera.device@3.2-impl-sprd.so 0 0 0644 
+vendor/lib/camera.device@3.2-impl.so 0 0 0644 
+vendor/lib/camera.device@1.0-impl.so 0 0 0644 
+vendor/lib/camera.device@3.3-impl-sprd.so 0 0 0644 
+vendor/lib/camera.device@3.3-impl.so 0 0 0644 
+vendor/lib/libkeymaster3device.so 0 0 0644 
+vendor/lib/camera.device@3.4-impl-sprd.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.enhance@1.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.aprd@1.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.connmgr@1.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.cplog_connmgr@1.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.fingerprintmmi@1.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.ifaa@1.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.gnss@2.0.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.log@1.0.so 0 0 0644 
+vendor/lib/libsensornpi.so 0 0 0644 
+vendor/lib/libsensorndkbridge.so 0 0 0644 
+vendor/lib/libsprdaudiohal@4.0.so 0 0 0644 
+vendor/lib/libsprdcamalgassist.so 0 0 0644 
+vendor/lib/mediadrm 0 2000 0755 
+vendor/lib/mediadrm/libdrmclearkeyplugin.so 0 0 0644 
+vendor/lib/libsprdaudiohal.so 0 0 0644 
+vendor/lib/libaudionpi.so 0 0 0644 
+vendor/lib/libstagefrighthw.so 0 0 0644 
+vendor/lib/libsprd_omx_core.so 0 0 0644 
+vendor/lib/libstagefright_sprd_deintl.so 0 0 0644 
+vendor/lib/libstagefright_soft_imaadpcmdec.so 0 0 0644 
+vendor/lib/libstagefright_soft_mjpgdec.so 0 0 0644 
+vendor/lib/libstagefright_sprd_h264dec.so 0 0 0644 
+vendor/lib/libstagefright_sprd_h265dec.so 0 0 0644 
+vendor/lib/libstagefright_sprd_h264enc.so 0 0 0644 
+vendor/lib/libstagefright_sprd_mp3dec.so 0 0 0644 
+vendor/lib/libstagefright_sprd_h265enc.so 0 0 0644 
+vendor/lib/libstagefright_sprd_mp3enc.so 0 0 0644 
+vendor/lib/libstagefright_sprd_mpeg4dec.so 0 0 0644 
+vendor/lib/libstagefright_sprd_mpeg4enc.so 0 0 0644 
+vendor/lib/libstagefright_sprd_vpxdec.so 0 0 0644 
+vendor/lib/libstagefright_sprd_vpxenc.so 0 0 0644 
+vendor/lib/libstagefright_sprd_vp9dec.so 0 0 0644 
+vendor/lib/libwebrtc_audio_preprocessing.so 0 0 0644 
+vendor/lib/libcamsensor.so 0 0 0644 
+vendor/lib/power.sprd.so 0 0 0644 
+vendor/lib/camera.device@3.4-external-impl.so 0 0 0644 
+vendor/lib/libotp_gc5035_common.so 0 0 0644 
+vendor/lib/libotp_s5k4h7_tsp.so 0 0 0644 
+vendor/lib/libcppdrv.so 0 0 0644 
+vendor/lib/libotp_general.so 0 0 0644 
+vendor/lib/libsensor_gc2375.so 0 0 0644 
+vendor/lib/libsensor_gc2375h.so 0 0 0644 
+vendor/lib/libotp_ov13855.so 0 0 0644 
+vendor/lib/libsensor_gc5035.so 0 0 0644 
+vendor/lib/libsensor_gc8034.so 0 0 0644 
+vendor/lib/libsensor_hi846_wide.so 0 0 0644 
+vendor/lib/libsensor_hi846.so 0 0 0644 
+vendor/lib/libsensor_hi846_front.so 0 0 0644 
+vendor/lib/libsensor_imx258.so 0 0 0644 
+vendor/lib/libsensor_imx351.so 0 0 0644 
+vendor/lib/libsensor_imx362.so 0 0 0644 
+vendor/lib/libsensor_imx363.so 0 0 0644 
+vendor/lib/libispalg.so 0 0 0644 
+vendor/lib/libcamoem.so 0 0 0644 
+vendor/lib/libsensor_imx586.so 0 0 0644 
+vendor/lib/libsensor_ov13855.so 0 0 0644 
+vendor/lib/libsensor_ov02b10.so 0 0 0644 
+vendor/lib/libsensor_ov16885_normal.so 0 0 0644 
+vendor/lib/libsensor_ov16885.so 0 0 0644 
+vendor/lib/libsensor_ov32a1q.so 0 0 0644 
+vendor/lib/libsensor_ov5675.so 0 0 0644 
+vendor/lib/libsensor_ov2680.so 0 0 0644 
+vendor/lib/libsensor_ov5675_dual.so 0 0 0644 
+vendor/lib/libsensor_ov7251.so 0 0 0644 
+vendor/lib/libsensor_ov7251_dual.so 0 0 0644 
+vendor/lib/libsensor_s5k3l6.so 0 0 0644 
+vendor/lib/libsensor_ov8856_shine_front.so 0 0 0644 
+vendor/lib/libsensor_ov8858.so 0 0 0644 
+vendor/lib/libsensor_s5k4h7.so 0 0 0644 
+vendor/lib/libsensor_s5k3p9sx04.so 0 0 0644 
+vendor/lib/libsensor_s5k3l6xx03.so 0 0 0644 
+vendor/lib/libsensor_s5k3l8xxm3.so 0 0 0644 
+vendor/lib/libsensor_s5k4h8yx.so 0 0 0644 
+vendor/lib/libsensor_s5k4h9yx.so 0 0 0644 
+vendor/lib/libsensor_s5kgm1sp.so 0 0 0644 
+vendor/lib/lib_factorytest_ft2.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.power@3.0.so 0 0 0644 
+vendor/lib/libpowerhal_cli.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.radio.flavor@1.0.so 0 0 0644 
+vendor/lib/mediacas 0 2000 0755 
+vendor/lib/mediacas/libclearkeycasplugin.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.radio@1.0.so 0 0 0644 
+vendor/lib/libatci.so 0 0 0644 
+vendor/lib/vendor.sprd.hardware.thermal@1.0.so 0 0 0644 
+vendor/lib/libotp_s5k5e8yx_jd.so 0 0 0644 
+vendor/lib/libsensor_gc8034_rear.so 0 0 0644 
+vendor/lib/libsensor_ov8856_shine.so 0 0 0644 
+vendor/lib/libsensor_s5k5e9yu05.so 0 0 0644 
+vendor/lib/libsensor_s5k5e8yx.so 0 0 0644 
+vendor/lib/libvcm_dw9714p.so 0 0 0644 
+vendor/lib/libvcm_dw9768v.so 0 0 0644 
+vendor/lib/libvcm_dw9714.so 0 0 0644 
+vendor/lib/libvcm_dw9718s.so 0 0 0644 
+vendor/lib/libvcm_zc524.so 0 0 0644 
+vendor/lib/libvcm_dw9800.so 0 0 0644 
+vendor/lib/libvcm_lc898213.so 0 0 0644 
+vendor/lib64 0 2000 0755 
+vendor/lib64/libifaacheck.so 0 0 0644 
+vendor/lib64/libjpeg_hw_sprd.so 0 0 0644 
+vendor/lib64/libmulticam.so 0 0 0644 
+vendor/lib64/libomx_avcdec_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_avcdec_sw_sprd.so 0 0 0644 
+vendor/lib64/libomx_avcdec_vt_sprd.so 0 0 0644 
+vendor/lib64/libomx_avcenc_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_hevcdec_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_hevcenc_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_m4vh263dec_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_m4vh263dec_sw_sprd.so 0 0 0644 
+vendor/lib64/libomx_m4vh263enc_sw_sprd.so 0 0 0644 
+vendor/lib64/libomx_mp3enc_sprd.so 0 0 0644 
+vendor/lib64/libomx_vp9dec_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_vpxdec_hw_sprd.so 0 0 0644 
+vendor/lib64/libomx_vpxenc_hw_sprd.so 0 0 0644 
+vendor/lib64/libril_threads.so 0 0 0644 
+vendor/lib64/librilsprd-single.so 0 0 0644 
+vendor/lib64/librilsprd.so 0 0 0644 
+vendor/lib64/libsprd-ril-single.so 0 0 0644 
+vendor/lib64/libsprd-ril.so 0 0 0644 
+vendor/lib64/libuepolicy.so 0 0 0644 
+vendor/lib64/hw 0 2000 0755 
+vendor/lib64/hw/face.default.so 0 0 0644 
+vendor/lib64/hw/ifaa.default.so 0 0 0644 
+vendor/lib64/hw/audio.primary.default.so 0 0 0644 
+vendor/lib64/hw/memtrack.ud710.so 0 0 0644 
+vendor/lib64/hw/gralloc.ud710.so 0 0 0644 
+vendor/lib64/hw/vulkan.ud710.so 0 0 0644 
+vendor/lib64/hw/fingerprint.default.so 0 0 0644 
+vendor/lib64/hw/gralloc.default.so 0 0 0644 
+vendor/lib64/hw/vibrator.ud710.so 0 0 0644 
+vendor/lib64/hw/lights.ud710.so 0 0 0644 
+vendor/lib64/hw/audio.usb.default.so 0 0 0644 
+vendor/lib64/hw/gatekeeper.default.so 0 0 0644 
+vendor/lib64/hw/enhance.ud710.so 0 0 0644 
+vendor/lib64/hw/keystore.sprdtrusty.so 0 0 0644 
+vendor/lib64/hw/keystore.ud710.so 0 0 0644 keystore.sprdtrusty.so
+vendor/lib64/hw/audio.r_submix.default.so 0 0 0644 
+vendor/lib64/hw/gps.default.so 0 0 0644 
+vendor/lib64/hw/sensors.ud710.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.connmgr@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.cplog_connmgr@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.enhance@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.fingerprintmmi@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.ifaa@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.log@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.bluetooth.a2dp@1.0-impl-unisoc.so 0 0 0644 
+vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-unisoc.so 0 0 0644 
+vendor/lib64/hw/android.hardware.broadcastradio@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.audio@4.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.graphics.allocator@2.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.graphics.composer@2.1-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.graphics.mapper@2.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.light@2.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.health@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.memtrack@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.gnss@2.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.renderscript@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.vibrator@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.audio.effect@4.0-impl.so 0 0 0644 
+vendor/lib64/hw/android.hardware.keymaster@3.0-impl.so 0 0 0644 
+vendor/lib64/hw/dpu.ud710.so 0 0 0644 
+vendor/lib64/hw/gsp.ud710.so 0 0 0644 
+vendor/lib64/hw/android.hardware.camera.provider@2.4-impl-sprd.so 0 0 0644 
+vendor/lib64/hw/local_time.default.so 0 0 0644 
+vendor/lib64/hw/android.hardware.sensors@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/power.default.so 0 0 0644 
+vendor/lib64/hw/thermal.default.so 0 0 0644 
+vendor/lib64/hw/hwcomposer.ud710.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.power@3.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.aprd@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vendor.sprd.hardware.thermal@1.0-impl.so 0 0 0644 
+vendor/lib64/hw/vibrator.default.so 0 0 0644 
+vendor/lib64/hw/camera.ud710.so 0 0 0644 
+vendor/lib64/npidevice 0 2000 0755 
+vendor/lib64/npidevice/libFactoryRadioTest.so 0 0 0644 
+vendor/lib64/npidevice/libgetuid.so 0 0 0644 
+vendor/lib64/npidevice/libusbtypec.so 0 0 0644 
+vendor/lib64/npidevice/libcheckkeybox.so 0 0 0644 
+vendor/lib64/npidevice/PQTune.ud710.so 0 0 0644 
+vendor/lib64/npidevice/liblcdnpi.so 0 0 0644 
+vendor/lib64/soundfx 0 2000 0755 
+vendor/lib64/soundfx/libldnhncr.so 0 0 0644 
+vendor/lib64/soundfx/libvisualizer.so 0 0 0644 
+vendor/lib64/soundfx/libdownmix.so 0 0 0644 
+vendor/lib64/soundfx/libdynproc.so 0 0 0644 
+vendor/lib64/soundfx/libreverbwrapper.so 0 0 0644 
+vendor/lib64/soundfx/libbundlewrapper.so 0 0 0644 
+vendor/lib64/soundfx/libeffectproxy.so 0 0 0644 
+vendor/lib64/soundfx/libaudiopreprocessing.so 0 0 0644 
+vendor/lib64/libverify.so 0 0 0644 
+vendor/lib64/libinfo.so 0 0 0644 
+vendor/lib64/liblcscp.so 0 0 0644 
+vendor/lib64/liblcsagent.so 0 0 0644 
+vendor/lib64/libsupl.so 0 0 0644 
+vendor/lib64/liblcswbxml2.so 0 0 0644 
+vendor/lib64/liblcsmgt.so 0 0 0644 
+vendor/lib64/libnavcore.so 0 0 0644 
+vendor/lib64/libfprint-x64.so 0 0 0644 
+vendor/lib64/libfactorylib.so 0 0 0644 
+vendor/lib64/libcreatesurface.so 0 0 0644 
+vendor/lib64/libae3.x.so 0 0 0644 
+vendor/lib64/libawb.so 0 0 0644 
+vendor/lib64/libalsc.so 0 0 0644 
+vendor/lib64/libfcell.so 0 0 0644 
+vendor/lib64/egl 0 2000 0755 
+vendor/lib64/egl/libGLESv2_POWERVR_ROGUE.so 0 0 0644 
+vendor/lib64/egl/libGLESv1_CM_POWERVR_ROGUE.so 0 0 0644 
+vendor/lib64/egl/libEGL_POWERVR_ROGUE.so 0 0 0644 
+vendor/lib64/libatm.so 0 0 0644 
+vendor/lib64/libglslcompiler.so 0 0 0644 
+vendor/lib64/libdeflicker.so 0 0 0644 
+vendor/lib64/libflash.so 0 0 0644 
+vendor/lib64/libomx_cabc_sw_sprd.so 0 0 0644 
+vendor/lib64/libhdr.so 0 0 0644 
+vendor/lib64/libnnaruntime.so 0 0 0644 
+vendor/lib64/libPVRRS.so 0 0 0644 
+vendor/lib64/libSprdImageFilter.so 0 0 0644 
+vendor/lib64/libawb1.so 0 0 0644 
+vendor/lib64/libtdnsTest.so 0 0 0644 
+vendor/lib64/libsprdfacebeauty.so 0 0 0644 
+vendor/lib64/libsprdfacebeauty_vdsp.so 0 0 0644 
+vendor/lib64/libsprdcnr.so 0 0 0644 
+vendor/lib64/libsprdfa.so 0 0 0644 
+vendor/lib64/libsprdfarcnn.so 0 0 0644 
+vendor/lib64/libsprdfd.so 0 0 0644 
+vendor/lib64/libsprdhdr.so 0 0 0644 
+vendor/lib64/libgyrostab.so 0 0 0644 
+vendor/lib64/libinterface.so 0 0 0644 
+vendor/lib64/libbokeh_gaussian.so 0 0 0644 
+vendor/lib64/libXMPCore.so 0 0 0644 
+vendor/lib64/libSegLite.so 0 0 0644 
+vendor/lib64/libBokeh2Frames.so 0 0 0644 
+vendor/lib64/libXMPFiles.so 0 0 0644 
+vendor/lib64/libbokeh_gaussian_cap.so 0 0 0644 
+vendor/lib64/libsprdbokeh.so 0 0 0644 
+vendor/lib64/libsprddepth.so 0 0 0644 
+vendor/lib64/libbokeh_depth.so 0 0 0644 
+vendor/lib64/libSegLiteMNN.so 0 0 0644 
+vendor/lib64/libsprd_portrait_cap.so 0 0 0644 
+vendor/lib64/libWT.so 0 0 0644 
+vendor/lib64/libyuv420_scaler.so 0 0 0644 
+vendor/lib64/libIMGegl.so 0 0 0644 
+vendor/lib64/libPVRScopeServices.so 0 0 0644 
+vendor/lib64/libPVROCL.so 0 0 0644 
+vendor/lib64/libsprdaic.so 0 0 0644 
+vendor/lib64/libspcaftrigger.so 0 0 0644 
+vendor/lib64/libSprdPdAlgo.so 0 0 0644 
+vendor/lib64/libsprdscenedetect.so 0 0 0644 
+vendor/lib64/libsrv_um.so 0 0 0644 
+vendor/lib64/libae.so 0 0 0644 
+vendor/lib64/libspafv1.so 0 0 0644 
+vendor/lib64/libsutu_display.so 0 0 0644 
+vendor/lib64/libtqvalidate.so 0 0 0644 
+vendor/lib64/libufwriter.so 0 0 0644 
+vendor/lib64/libusc.so 0 0 0644 
+vendor/lib64/libeng_tok.so 0 0 0644 
+vendor/lib64/libkey.so 0 0 0644 
+vendor/lib64/libsprd_fcell.so 0 0 0644 
+vendor/lib64/libbt-vendor.so 0 0 0644 
+vendor/lib64/librpmbclient.so 0 0 0644 
+vendor/lib64/libreaduid.so 0 0 0644 
+vendor/lib64/libSprd3dnrAdapter.so 0 0 0644 
+vendor/lib64/libcamcommon.so 0 0 0644 
+vendor/lib64/libcamfb.so 0 0 0644 
+vendor/lib64/libsprdcnradapter.so 0 0 0644 
+vendor/lib64/libcamfacebeauty.so 0 0 0644 
+vendor/lib64/libsprdhdradapter.so 0 0 0644 
+vendor/lib64/libdrm.so 0 0 0644 
+vendor/lib64/libhwc2onfbadapter.so 0 0 0644 
+vendor/lib64/libhwminijail.so 0 0 0644 
+vendor/lib64/librilutils.so 0 0 0644 
+vendor/lib64/libtextclassifier_hash.so 0 0 0644 
+vendor/lib64/libtrusty.so 0 0 0644 
+vendor/lib64/libalsautils.so 0 0 0644 
+vendor/lib64/libeffectsconfig.so 0 0 0644 
+vendor/lib64/libeffects.so 0 0 0644 
+vendor/lib64/libteeproduction.so 0 0 0644 
+vendor/lib64/libsoter_trusty.so 0 0 0644 
+vendor/lib64/libkernelbootcp.trusty.so 0 0 0644 
+vendor/lib64/enhance.ud710.so 0 0 0644 ./hw/enhance.ud710.so
+vendor/lib64/libefuse.so 0 0 0644 
+vendor/lib64/production 0 2000 0755 
+vendor/lib64/production/libpubefuseapi.so 0 0 0644 
+vendor/lib64/libhwc2on1adapter.so 0 0 0644 
+vendor/lib64/libnbaio_mono.so 0 0 0644 
+vendor/lib64/libsprdaudiohal_deathhandler.so 0 0 0644 
+vendor/lib64/libbt-sprd_suite.so 0 0 0644 
+vendor/lib64/libmapuser.so 0 0 0644 
+vendor/lib64/libfaceid_tee.so 0 0 0644 
+vendor/lib64/libwifi-hal.so 0 0 0644 
+vendor/lib64/libmemion.so 0 0 0644 
+vendor/lib64/libcam_otp_parser.so 0 0 0644 
+vendor/lib64/libcambr.so 0 0 0644 
+vendor/lib64/libcampm.so 0 0 0644 
+vendor/lib64/libcppdrv.so 0 0 0644 
+vendor/lib64/libcamperf.so 0 0 0644 
+vendor/lib64/libiwnpi.so 0 0 0644 
+vendor/lib64/libcamcalitest.so 0 0 0644 
+vendor/lib64/libparam_gc8034_rear.so 0 0 0644 
+vendor/lib64/libsensorsdrvcfg.so 0 0 0644 
+vendor/lib64/liblowi_wifihal.so 0 0 0644 
+vendor/lib64/libparam_hi846.so 0 0 0644 
+vendor/lib64/libparam_gc8034.so 0 0 0644 
+vendor/lib64/libsprdfd_hw.so 0 0 0644 
+vendor/lib64/libsensorlistcfg.so 0 0 0644 
+vendor/lib64/libparam_ov02b10.so 0 0 0644 
+vendor/lib64/libparam_hi846_front.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.fingerprintmmi@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.cplog_connmgr@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.aprd@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.enhance@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.connmgr@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.ifaa@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.face@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.log@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.gnss@2.0.so 0 0 0644 
+vendor/lib64/libsensornpi.so 0 0 0644 
+vendor/lib64/camera.device@3.2-impl.so 0 0 0644 
+vendor/lib64/camera.device@3.3-impl.so 0 0 0644 
+vendor/lib64/camera.device@3.2-impl-sprd.so 0 0 0644 
+vendor/lib64/libkeystore-wifi-hidl.so 0 0 0644 
+vendor/lib64/camera.device@1.0-impl.so 0 0 0644 
+vendor/lib64/libkeystore-engine-wifi-hidl.so 0 0 0644 
+vendor/lib64/camera.device@3.3-impl-sprd.so 0 0 0644 
+vendor/lib64/libsensorndkbridge.so 0 0 0644 
+vendor/lib64/libkeymaster3device.so 0 0 0644 
+vendor/lib64/camera.device@3.4-impl-sprd.so 0 0 0644 
+vendor/lib64/libsprdaudiohal@4.0.so 0 0 0644 
+vendor/lib64/libsprdaudiohal.so 0 0 0644 
+vendor/lib64/mediadrm 0 2000 0755 
+vendor/lib64/mediadrm/libdrmclearkeyplugin.so 0 0 0644 
+vendor/lib64/libsprdcamalgassist.so 0 0 0644 
+vendor/lib64/libaudionpi.so 0 0 0644 
+vendor/lib64/libstagefrighthw.so 0 0 0644 
+vendor/lib64/libsprd_omx_core.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_deintl.so 0 0 0644 
+vendor/lib64/libstagefright_soft_mjpgdec.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_h264enc.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_h264dec.so 0 0 0644 
+vendor/lib64/libstagefright_soft_imaadpcmdec.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_h265dec.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_mpeg4dec.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_mp3dec.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_mp3enc.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_h265enc.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_vpxdec.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_mpeg4enc.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_vpxenc.so 0 0 0644 
+vendor/lib64/libstagefright_sprd_vp9dec.so 0 0 0644 
+vendor/lib64/libwebrtc_audio_preprocessing.so 0 0 0644 
+vendor/lib64/power.sprd.so 0 0 0644 
+vendor/lib64/libcamsensor.so 0 0 0644 
+vendor/lib64/libotp_general.so 0 0 0644 
+vendor/lib64/libotp_ov13855.so 0 0 0644 
+vendor/lib64/libotp_gc5035_common.so 0 0 0644 
+vendor/lib64/libispalg.so 0 0 0644 
+vendor/lib64/libotp_s5k4h7_tsp.so 0 0 0644 
+vendor/lib64/libcamdrv.so 0 0 0644 
+vendor/lib64/libsensor_gc2375.so 0 0 0644 
+vendor/lib64/libotp_s5k5e8yx_jd.so 0 0 0644 
+vendor/lib64/libsensor_gc2375h.so 0 0 0644 
+vendor/lib64/libsensor_gc5035.so 0 0 0644 
+vendor/lib64/libsensor_gc8034.so 0 0 0644 
+vendor/lib64/libsensor_hi846.so 0 0 0644 
+vendor/lib64/libsensor_gc8034_rear.so 0 0 0644 
+vendor/lib64/libsensor_hi846_front.so 0 0 0644 
+vendor/lib64/libsensor_imx258.so 0 0 0644 
+vendor/lib64/libsensor_hi846_wide.so 0 0 0644 
+vendor/lib64/libsensor_imx363.so 0 0 0644 
+vendor/lib64/libsensor_imx351.so 0 0 0644 
+vendor/lib64/libsensor_ov02b10.so 0 0 0644 
+vendor/lib64/libsensor_imx362.so 0 0 0644 
+vendor/lib64/libsensor_imx586.so 0 0 0644 
+vendor/lib64/libcamoem.so 0 0 0644 
+vendor/lib64/libsensor_ov13855.so 0 0 0644 
+vendor/lib64/libsensor_ov16885.so 0 0 0644 
+vendor/lib64/libsensor_ov16885_normal.so 0 0 0644 
+vendor/lib64/libsensor_ov5675.so 0 0 0644 
+vendor/lib64/libsensor_ov2680.so 0 0 0644 
+vendor/lib64/libsensor_ov32a1q.so 0 0 0644 
+vendor/lib64/libsensor_ov5675_dual.so 0 0 0644 
+vendor/lib64/libsensor_ov7251.so 0 0 0644 
+vendor/lib64/libsensor_ov8856_shine_front.so 0 0 0644 
+vendor/lib64/libsensor_s5k4h7.so 0 0 0644 
+vendor/lib64/libsensor_ov8858.so 0 0 0644 
+vendor/lib64/libsensor_ov8856_shine.so 0 0 0644 
+vendor/lib64/libsensor_s5k3l6.so 0 0 0644 
+vendor/lib64/libsensor_s5k3l6xx03.so 0 0 0644 
+vendor/lib64/libvcm_dw9768v.so 0 0 0644 
+vendor/lib64/libvcm_dw9714p.so 0 0 0644 
+vendor/lib64/libsensor_s5k4h8yx.so 0 0 0644 
+vendor/lib64/libsensor_s5k3l8xxm3.so 0 0 0644 
+vendor/lib64/libsensor_s5k3p9sx04.so 0 0 0644 
+vendor/lib64/libsensor_s5kgm1sp.so 0 0 0644 
+vendor/lib64/libsensor_s5k5e8yx.so 0 0 0644 
+vendor/lib64/libsensor_s5k4h9yx.so 0 0 0644 
+vendor/lib64/libsensor_s5k5e9yu05.so 0 0 0644 
+vendor/lib64/libvcm_dw9714.so 0 0 0644 
+vendor/lib64/libvcm_dw9718s.so 0 0 0644 
+vendor/lib64/libvcm_dw9800.so 0 0 0644 
+vendor/lib64/libvcm_zc524.so 0 0 0644 
+vendor/lib64/libvcm_lc898213.so 0 0 0644 
+vendor/lib64/mediacas 0 2000 0755 
+vendor/lib64/mediacas/libclearkeycasplugin.so 0 0 0644 
+vendor/lib64/camera.device@3.4-external-impl.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.power@3.0.so 0 0 0644 
+vendor/lib64/libpowerhal_cli.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.radio.flavor@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.soter@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.radio@1.0.so 0 0 0644 
+vendor/lib64/libatci.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.thermal@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.wifi.hostapd@1.0.so 0 0 0644 
+vendor/lib64/vendor.sprd.hardware.wifi.supplicant@1.1.so 0 0 0644 
+vendor/lib64/libsensor_ov7251_dual.so 0 0 0644 
+vendor/media 0 2000 0755 
+vendor/media/audio_sample.pcm 0 0 0644 
+vendor/overlay 0 2000 0755 
+vendor/overlay/framework-res__auto_generated_rro.apk 0 0 0644 
+vendor/overlay/DisplayCutoutEmulationDouble 0 2000 0755 
+vendor/overlay/DisplayCutoutEmulationDouble/DisplayCutoutEmulationDoubleOverlay.apk 0 0 0644 
+vendor/overlay/DisplayCutoutEmulationCorner 0 2000 0755 
+vendor/overlay/DisplayCutoutEmulationCorner/DisplayCutoutEmulationCornerOverlay.apk 0 0 0644 
+vendor/overlay/SysuiDarkTheme 0 2000 0755 
+vendor/overlay/SysuiDarkTheme/SysuiDarkThemeOverlay.apk 0 0 0644 
+vendor/overlay/DisplayCutoutEmulationTall 0 2000 0755 
+vendor/overlay/DisplayCutoutEmulationTall/DisplayCutoutEmulationTallOverlay.apk 0 0 0644 
+vendor/productinfo 0 2000 0755 
+vendor/ueventd.rc 0 0 0644 
+vendor/usr 0 2000 0755 
+vendor/usr/keylayout 0 2000 0755 
+vendor/usr/keylayout/gpio-keys.kl 0 0 0644 
+vendor/usr/keylayout/adaptive_ts.kl 0 0 0644 
+vendor/usr/keylayout/focaltech_ts.kl 0 0 0644 
+vendor/usr/keylayout/synaptics_dsx.kl 0 0 0644 
+vendor/usr/keylayout/msg2138_ts.kl 0 0 0644 
+vendor/usr/idc 0 2000 0755 
+vendor/usr/idc/adaptive_ts.idc 0 0 0644 
+vendor/usr/idc/msg2138_ts.idc 0 0 0644 
+vendor/usr/idc/focaltech_ts.idc 0 0 0644 
+vendor/usr/idc/synaptics_dsx.idc 0 0 0644 
+vendor/usr/idc/ssd20xx_ts.idc 0 0 0644 
+vendor/usr/idc/focaltech_spi_ts.idc 0 0 0644 
+vendor/usr/idc/ilitek9882x.idc 0 0 0644 
+vendor/usr/idc/synaptics_dsx_i2c.idc 0 0 0644
+vendor/lib/modules/mitochodria_cam_power.ko 0 0 0644
+vendor/lib/modules/npu_img_mem.ko 0 0 0644
+vendor/lib/modules/npu_img_vha.ko 0 0 0644
+vendor/etc/init/mitochodria-storage.rc 0 0 0644
+vendor/bin/mitochodria-sensorhub-boot 0 0 0755
+vendor/etc/init/mitochodria-sensorhub.rc 0 0 0644

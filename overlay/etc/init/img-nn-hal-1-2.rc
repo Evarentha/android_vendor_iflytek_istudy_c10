@@ -1,0 +1,15 @@
+on boot && property:persist.vendor.npu.version=1
+    insmod /vendor/lib/modules/npu_img_mem.ko
+    insmod /vendor/lib/modules/npu_img_vha.ko freq_khz=0 onchipmem_phys_start=0 onchipmem_size=262144 cnn_wdt_cycles=0x80000000
+    wait /dev/vha0
+    chown system system /dev/vha0
+    chmod 660 /dev/vha0
+    mkdir /data/vendor/.img 0770 system system
+    start img-nn-hal-1-2
+
+service img-nn-hal-1-2 /vendor/bin/hw/android.hardware.neuralnetworks@1.2-service-img-nn-hw \
+        -m /vendor/etc/mapconfig.json -h /vendor/etc/hwconfig.json
+    class hal
+    user system
+    group system
+    disabled

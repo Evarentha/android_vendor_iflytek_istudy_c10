@@ -1,0 +1,8 @@
+service vendor.sensors-hal-1-0 /vendor/bin/hw/android.hardware.sensors@1.0-service
+    class main
+    # Start once after CM4 loading; never kill a HAL held by SensorService.
+    disabled
+    user system
+    group system wakelock
+    capabilities BLOCK_SUSPEND
+    rlimit rtprio 10 10

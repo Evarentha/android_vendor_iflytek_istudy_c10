@@ -1,0 +1,13 @@
+{
+  "mitochodria_cam_power": "modules/camera-port/power/mitochodria_cam_power.ko",
+  "sprd_sensor": "modules/camera-port/sensor/sprd_sensor.ko",
+  "sprd_camera": "modules/camera-port/core/sprd_camera.ko",
+  "sprd_cpp": "modules/camera-port/cpp/sprd_cpp.ko",
+  "sprd_fd": "modules/camera-port/fd/sprd_fd.ko",
+  "mmdvfs": "modules/camera-port/mmdvfs/mmdvfs.ko",
+  "sprd_flash_drv": "modules/camera-port/flash/flash_drv/sprd_flash_drv.ko",
+  "flash_ic_sc2703": "modules/camera-port/flash/sc2703s/flash_ic_sc2703.ko",
+  "npu_img_mem": "modules/npu-port/img_mem/npu_img_mem.ko",
+  "npu_img_vha": "modules/npu-port/vha/npu_img_vha.ko",
+  "bcmdhd": "modules/wifi-port/bcmdhd.ko"
+}

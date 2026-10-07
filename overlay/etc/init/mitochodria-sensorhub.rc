@@ -1,0 +1,21 @@
+# Mitochodria SensorHub Startup
+#
+# Loads CM4 firmware before starting the factory sensor HAL.
+#
+# Authors:
+# worryzu <worryzu@gmail.com> @LinearTeam
+#
+# Copyright (C) 2026 Evarentha
+# SPDX-License-Identifier: MIT
+
+on boot
+    exec_start vendor.mitochodria-sensorhub-boot
+    start vendor.sensors-hal-1-0
+
+service vendor.mitochodria-sensorhub-boot /vendor/bin/mitochodria-sensorhub-boot
+    class core
+    user root
+    group root system
+    seclabel u:r:modem_control:s0
+    disabled
+    oneshot

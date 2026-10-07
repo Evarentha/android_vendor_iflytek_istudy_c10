@@ -1,0 +1,3 @@
+on sprd-flash-ko
+    insmod /vendor/lib/modules/flash_ic_sc2703.ko
+    # Use the separately loaded SC2703 flash driver.

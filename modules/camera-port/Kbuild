@@ -1,0 +1,12 @@
+obj-m += flash/flash_drv/
+obj-m += flash/sc2703s/
+# Full camera sources retained for the next API/ION/power-domain port.
+subdir-ccflags-y += -I$(src)/include -I$(src)/sensor
+subdir-ccflags-y += -include $(src)/include/mitochodria_time.h
+obj-m += sensor/
+obj-m += core/
+obj-m += power/
+obj-m += cpp/
+obj-m += fd/
+obj-m += mmdvfs/
+subdir-ccflags-y += -I$(srctree)/include/linux

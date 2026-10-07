@@ -1,0 +1,3 @@
+obj-m += img_mem/
+obj-m += vha/
+subdir-ccflags-y += -include $(src)/include/mitochodria_time.h

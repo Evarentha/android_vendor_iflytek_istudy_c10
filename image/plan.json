@@ -1,0 +1,430 @@
+[
+  {
+    "target": "lib/libsrv_um.so",
+    "reference_sha256": "614b4566e6e066cd407fea77ed5036e885cfdfa89a0b7556385413f6080c0589",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libsrv_um.so"
+  },
+  {
+    "target": "lib/libIMGegl.so",
+    "reference_sha256": "633864be40167c764cf0ef1dcae6fa2fcde3813f137150dde3309bf4673673c7",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libIMGegl.so"
+  },
+  {
+    "target": "lib/libusc.so",
+    "reference_sha256": "1f9925bf6916053d9f657d68d7835b0f9701c1dc44e7530cf54ad40d3950e26e",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libusc.so"
+  },
+  {
+    "target": "lib/libglslcompiler.so",
+    "reference_sha256": "2dc76caae657fadca0cec5bd689fd08d779c39f3ab3d6bacc4f424fde3b2a99b",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libglslcompiler.so"
+  },
+  {
+    "target": "lib/libufwriter.so",
+    "reference_sha256": "be670f209dae39e39bbee30f3046dedf288fd9fc68361e6900f838edbb234f9a",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libufwriter.so"
+  },
+  {
+    "target": "lib/libPVRScopeServices.so",
+    "reference_sha256": "6150729a9843f67221ec6eddb803869e285bb1121811f245884be2db3917a249",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libPVRScopeServices.so"
+  },
+  {
+    "target": "lib/libtqvalidate.so",
+    "reference_sha256": "a05c62f7402b2df21b9e4013b8d6091dedcb61cf8016eb30054b27f51a1a93f0",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libtqvalidate.so"
+  },
+  {
+    "target": "lib/libsutu_display.so",
+    "reference_sha256": "b302eb59999ec6fc9c94e06b31d6295769e183ddc515ff41e1fcfaa2b735745f",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/libsutu_display.so"
+  },
+  {
+    "target": "lib/egl/libEGL_POWERVR_ROGUE.so",
+    "reference_sha256": "f416df498ecc22b41d7d8f15a7a70d02d6a8af6b6f12ee61d0c3c3fb5da52e44",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/egl/libEGL_POWERVR_ROGUE.so"
+  },
+  {
+    "target": "lib/egl/libGLESv1_CM_POWERVR_ROGUE.so",
+    "reference_sha256": "1edffeb0416fef2742ebf48c0daacdb5ce856586ec8c197c59d27595ec6a4436",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/egl/libGLESv1_CM_POWERVR_ROGUE.so"
+  },
+  {
+    "target": "lib/egl/libGLESv2_POWERVR_ROGUE.so",
+    "reference_sha256": "266b5a06d025661d07a1b0cb5939858418ddb5c4e03aad20786b70c22a33703f",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/egl/libGLESv2_POWERVR_ROGUE.so"
+  },
+  {
+    "target": "lib/hw/gralloc.ud710.so",
+    "reference_sha256": "e59950a29122b51fd2c10d7bf8ae4d4fb268b657bcf409e7022310e82a5b8ed8",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/hw/gralloc.ud710.so"
+  },
+  {
+    "target": "lib/hw/vulkan.ud710.so",
+    "reference_sha256": "5ce30bde75369ab90d5fa6f2c350667345df8e203c44759682a98fde999f7f33",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/hw/vulkan.ud710.so"
+  },
+  {
+    "target": "lib/hw/memtrack.ud710.so",
+    "reference_sha256": "0ba8c4e52787b2824a35492e5acd25864e1b4befed3a6f69a1053aade8c1c692",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib/hw/memtrack.ud710.so"
+  },
+  {
+    "target": "lib/hw/hwcomposer.ud710.so",
+    "reference_sha256": "4ca0326d9c82e468ad86d5a76e696bf64d01f1454ffac42f05932e3705c3687f",
+    "kind": "built",
+    "source": "graphics/arm/hwcomposer.ud710.so"
+  },
+  {
+    "target": "lib/hw/gsp.ud710.so",
+    "reference_sha256": "ba90c48e8cf4e3b1fc3aaa68dc84066ee26f841e0629249731d864575fbc16cd",
+    "kind": "built",
+    "source": "graphics/arm/gsp.ud710.so"
+  },
+  {
+    "target": "lib/hw/dpu.ud710.so",
+    "reference_sha256": "90b24e0668823c3165738ca4eacbdfbff49b66004b539e1c19aaa622746a97dc",
+    "kind": "built",
+    "source": "graphics/arm/dpu.ud710.so"
+  },
+  {
+    "target": "lib/libPVRRS.so",
+    "reference_sha256": null,
+    "kind": "remove"
+  },
+  {
+    "target": "lib/libPVROCL.so",
+    "reference_sha256": null,
+    "kind": "remove"
+  },
+  {
+    "target": "lib64/libsrv_um.so",
+    "reference_sha256": "f4bc8927dbcdf673093a56643f5b5570c3ad56394bfb4be0ae36688dad9401e0",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libsrv_um.so"
+  },
+  {
+    "target": "lib64/libIMGegl.so",
+    "reference_sha256": "7ff48191b2d59ee99ba973b349aba78f3ed528152556d0d3a8ffb84097e94664",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libIMGegl.so"
+  },
+  {
+    "target": "lib64/libusc.so",
+    "reference_sha256": "b53fa80d2aaad27dfc6fa1f5ef20f934b62bdac71cafcf099bd2d6ea3586a518",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libusc.so"
+  },
+  {
+    "target": "lib64/libglslcompiler.so",
+    "reference_sha256": "f768b3271ec3af1315ffddc44fdb1f13c8ba4fb592d33b22bc40835f00edbc23",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libglslcompiler.so"
+  },
+  {
+    "target": "lib64/libufwriter.so",
+    "reference_sha256": "1a31ee61ba4239f4da87c13197cd60b2a3f75ad07ef91c5ec1e0663852f418bb",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libufwriter.so"
+  },
+  {
+    "target": "lib64/libPVRScopeServices.so",
+    "reference_sha256": "f86a7a4a96bbb9c8363df32e99e7db65eb325e757ba26aa75534ac17a2895111",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libPVRScopeServices.so"
+  },
+  {
+    "target": "lib64/libtqvalidate.so",
+    "reference_sha256": "c75866224e0967839a2092e1acff2aaaca73c4d20fe50736c00ec5016ef5f545",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libtqvalidate.so"
+  },
+  {
+    "target": "lib64/libsutu_display.so",
+    "reference_sha256": "0d27f10fe2a357ede6ebb23a5897936e3c79a6f5a423e9b68a7ec6f632743c46",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/libsutu_display.so"
+  },
+  {
+    "target": "lib64/egl/libEGL_POWERVR_ROGUE.so",
+    "reference_sha256": "1aeeb3b3c7c689824351570f62f49023792a7db8c59999efe82feb9740b8b319",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/egl/libEGL_POWERVR_ROGUE.so"
+  },
+  {
+    "target": "lib64/egl/libGLESv1_CM_POWERVR_ROGUE.so",
+    "reference_sha256": "84c4f2046ddbd147772a8efe5da882e104383f33ddf058ff2de816490297ec27",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/egl/libGLESv1_CM_POWERVR_ROGUE.so"
+  },
+  {
+    "target": "lib64/egl/libGLESv2_POWERVR_ROGUE.so",
+    "reference_sha256": "2142083fecd7b9c9036351d1b6197cc8d260295afcc5bc63646f9df1a34ac235",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/egl/libGLESv2_POWERVR_ROGUE.so"
+  },
+  {
+    "target": "lib64/hw/gralloc.ud710.so",
+    "reference_sha256": "6a6c71c5eace013316baaccd0079d5bbf63d5a77360a4da524ea73308ee20f21",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/hw/gralloc.ud710.so"
+  },
+  {
+    "target": "lib64/hw/vulkan.ud710.so",
+    "reference_sha256": "d06b9e28c4cb350ce324294dd8c5ec151d41f6849804cec695984ac689be2e43",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/hw/vulkan.ud710.so"
+  },
+  {
+    "target": "lib64/hw/memtrack.ud710.so",
+    "reference_sha256": "6279a508609f8e309a0ff973da2b99838d95d66dd2de0c54e4a450dd988c5b8d",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/lib64/hw/memtrack.ud710.so"
+  },
+  {
+    "target": "lib64/hw/hwcomposer.ud710.so",
+    "reference_sha256": "808f5c739ae3b9e8d84d2affeb0eea6a8dd33ea967192843ca751180dec1c182",
+    "kind": "built",
+    "source": "graphics/arm64/hwcomposer.ud710.so"
+  },
+  {
+    "target": "lib64/hw/gsp.ud710.so",
+    "reference_sha256": "a4c3a0352664ddf1e5eeb18f3c07672e1a066c345e637f567e57da1fa334ad3f",
+    "kind": "built",
+    "source": "graphics/arm64/gsp.ud710.so"
+  },
+  {
+    "target": "lib64/hw/dpu.ud710.so",
+    "reference_sha256": "be23e09294776073ff0b1895dcd3f508dc2222ac7726958fc43f2095e257013f",
+    "kind": "built",
+    "source": "graphics/arm64/dpu.ud710.so"
+  },
+  {
+    "target": "lib64/libPVRRS.so",
+    "reference_sha256": null,
+    "kind": "remove"
+  },
+  {
+    "target": "lib64/libPVROCL.so",
+    "reference_sha256": null,
+    "kind": "remove"
+  },
+  {
+    "target": "firmware/rgx.fw.signed.24.50.208.504",
+    "reference_sha256": "5012a5e01bdd381f021e6c799a7c834f7326a1485855ba678317f08382b0b363",
+    "kind": "prebuilt",
+    "source": "prebuilts/vendor/firmware/rgx.fw.signed.24.50.208.504"
+  },
+  {
+    "target": "lib/modules/bcmdhd.ko",
+    "reference_sha256": "dc8bc8c717861610e66d35b94b8520c8e6128c768c55fdd0b1381b8c8f8dd07d",
+    "kind": "built",
+    "source": "modules/wifi-port/bcmdhd.ko"
+  },
+  {
+    "target": "lib/modules/sprd_flash_drv.ko",
+    "reference_sha256": "63c40e2f0b684beed03e015e2ea9b25ee6cbbf45d1424a4fe5e11ecf4990a781",
+    "kind": "built",
+    "source": "modules/camera-port/flash/flash_drv/sprd_flash_drv.ko"
+  },
+  {
+    "target": "lib/modules/flash_ic_sc2703.ko",
+    "reference_sha256": "f9f3fe99e4d0de173745ba312e562715cb22a23e22bd6fc3320d2cc98c2d6ce5",
+    "kind": "built",
+    "source": "modules/camera-port/flash/sc2703s/flash_ic_sc2703.ko"
+  },
+  {
+    "target": "lib/modules/mitochodria_cam_power.ko",
+    "reference_sha256": "bd4343932b31cefcc88ba5fc265b2bea53661cd06754203dc84908c670037859",
+    "kind": "built",
+    "source": "modules/camera-port/power/mitochodria_cam_power.ko"
+  },
+  {
+    "target": "lib/modules/sprd_sensor.ko",
+    "reference_sha256": "cc1e6e07a6d44254dc6be543801ce07b6b2d20d958ae582daaab7e06dcf81bb5",
+    "kind": "built",
+    "source": "modules/camera-port/sensor/sprd_sensor.ko"
+  },
+  {
+    "target": "lib/modules/sprd_camera.ko",
+    "reference_sha256": "1f067e8273373623abb45549da0117f5a47000cc5503df40c75c67b4ae01ae1d",
+    "kind": "built",
+    "source": "modules/camera-port/core/sprd_camera.ko"
+  },
+  {
+    "target": "lib/modules/sprd_cpp.ko",
+    "reference_sha256": "d0ff9a6152d179c766ff132ebceaad00f4649bc9c82787709e61fd7d0ae80662",
+    "kind": "built",
+    "source": "modules/camera-port/cpp/sprd_cpp.ko"
+  },
+  {
+    "target": "lib/modules/sprd_fd.ko",
+    "reference_sha256": "f40c9f64900c996694f7006fcaeec68c2a16475e54727239894829955e42a397",
+    "kind": "built",
+    "source": "modules/camera-port/fd/sprd_fd.ko"
+  },
+  {
+    "target": "lib/modules/mmdvfs.ko",
+    "reference_sha256": "752d676579eeca63c623b98b7024df0ba8c903beed0c3977ccf2e538f88a20c2",
+    "kind": "built",
+    "source": "modules/camera-port/mmdvfs/mmdvfs.ko"
+  },
+  {
+    "target": "lib/modules/npu_img_mem.ko",
+    "reference_sha256": "39d909892af48821a91792c8946cd0fc9a69aa6b0e727038fed8c9f17d58f770",
+    "kind": "built",
+    "source": "modules/npu-port/img_mem/npu_img_mem.ko"
+  },
+  {
+    "target": "lib/modules/npu_img_vha.ko",
+    "reference_sha256": "1d689a236c199de389985544dea47f2687632f17ddd4c6576180f1c742227f2e",
+    "kind": "built",
+    "source": "modules/npu-port/vha/npu_img_vha.ko"
+  },
+  {
+    "target": "etc/init/camera.rc",
+    "reference_sha256": "c203592e8005b7aa22c4dd0b88db91c4c21cbbd808340d74f3039c651a438e1e",
+    "kind": "overlay",
+    "source": "overlay/etc/init/camera.rc"
+  },
+  {
+    "target": "etc/init/img-nn-hal-1-2.rc",
+    "reference_sha256": "807dec56a4ae50b50752356ff4b8e36ebc71effe2f6d223b5a14c9bf74d5d73d",
+    "kind": "overlay",
+    "source": "overlay/etc/init/img-nn-hal-1-2.rc"
+  },
+  {
+    "target": "etc/init/storageproxyd_androidp.rc",
+    "reference_sha256": "dd48a610b94bddc33431d84189b253dd8728a34ab918e4a82e3fd3d18ff50d38",
+    "kind": "overlay",
+    "source": "overlay/etc/init/storageproxyd_androidp.rc"
+  },
+  {
+    "target": "etc/init/hw/init.ud710_21c10.usb.rc",
+    "reference_sha256": "863f85e5a38fc29a7275b1604c36200cb4673a2e48805fbae5166272a79ceeeb",
+    "kind": "overlay",
+    "source": "overlay/etc/init/hw/init.ud710_21c10.usb.rc"
+  },
+  {
+    "target": "ueventd.rc",
+    "reference_sha256": "8f0a1639b3e31eb42a257800b96c3954934530c76ec73d786742793ffb750e06",
+    "kind": "overlay",
+    "source": "overlay/ueventd.rc"
+  },
+  {
+    "target": "etc/init/mitochodria-storage.rc",
+    "reference_sha256": "8273b7494aed35464993de003fec748553bce2c5dcf58ff968d87c16d8f9ec72",
+    "kind": "overlay",
+    "source": "overlay/etc/init/mitochodria-storage.rc"
+  },
+  {
+    "target": "lib/hw/camera.ud710.so",
+    "reference_sha256": "c5214985b1481c92335a529c224b5b4c91d6f27456427254185c25ed1ad538d7",
+    "kind": "built",
+    "source": "camera/arm/camera.ud710.so"
+  },
+  {
+    "target": "lib64/hw/camera.ud710.so",
+    "reference_sha256": "0046fa89288a6931100226d4dad037dc2231cc20fe50c03fe25ef6b40b8df450",
+    "kind": "built",
+    "source": "camera/arm64/camera.ud710.so"
+  },
+  {
+    "target": "bin/mitochodria-sensorhub-boot",
+    "reference_sha256": "6f7c1be841e7efe587c509e128aec1e18ef66f7ce9ac2f1a729163be22c01544",
+    "kind": "built",
+    "source": "sensorhub/mitochodria-sensorhub-boot"
+  },
+  {
+    "target": "etc/init/mitochodria-sensorhub.rc",
+    "reference_sha256": "d1adb6b65213f983a378e33161db8a14752cf3627daa6e39f1ca1858b0418c1f",
+    "kind": "overlay",
+    "source": "overlay/etc/init/mitochodria-sensorhub.rc"
+  },
+  {
+    "target": "etc/init/hw/init.common.rc",
+    "reference_sha256": "058662a4a350af258329ce5331e065aa4eff23e0f4176a411fc859843b5fbf63",
+    "kind": "overlay",
+    "source": "overlay/etc/init/hw/init.common.rc"
+  },
+  {
+    "target": "etc/init/hw/init.ud710_21c10.rc",
+    "reference_sha256": "7da46d62f0ab55fafab716cc92286b05dbafaedf7d304bdbf09b9101974d9016",
+    "kind": "overlay",
+    "source": "overlay/etc/init/hw/init.ud710_21c10.rc"
+  },
+  {
+    "target": "etc/init/init.microarray.rc",
+    "reference_sha256": "ca9727f0eb0755543d5e4a2983a40116d145145227089c85a6a60daae4fde5e6",
+    "kind": "overlay",
+    "source": "overlay/etc/init/init.microarray.rc"
+  },
+  {
+    "target": "etc/init/init.synaptics_dsx_i2c.rc",
+    "reference_sha256": "13fe9c4fe56c44cf5c06e868393d6814d06019bc589a5067cd014712880ee229",
+    "kind": "overlay",
+    "source": "overlay/etc/init/init.synaptics_dsx_i2c.rc"
+  },
+  {
+    "target": "etc/init/init.sprd_flash.rc",
+    "reference_sha256": "59fd90043d5274cfa4df66e20dc07aab30d7fb2501b9a61abee106be6152af5a",
+    "kind": "overlay",
+    "source": "overlay/etc/init/init.sprd_flash.rc"
+  },
+  {
+    "target": "etc/init/factorytest.rc",
+    "reference_sha256": "0aacc4c9ce55e87bdae909c754962436d94a2e8846210d042363a2f7cc21ca7e",
+    "kind": "overlay",
+    "source": "overlay/etc/init/factorytest.rc"
+  },
+  {
+    "target": "etc/init/android.hardware.sensors@1.0-service.rc",
+    "reference_sha256": "cb43f5b4dcb42323b5b83235f60694ec54872309f7ac327ae8abb49021784801",
+    "kind": "overlay",
+    "source": "overlay/etc/init/android.hardware.sensors@1.0-service.rc"
+  },
+  {
+    "target": "etc/init/c8pro-storage.rc",
+    "kind": "remove",
+    "reference_sha256": null
+  },
+  {
+    "target": "bin/c8pro-early-log.sh",
+    "reference_sha256": null,
+    "kind": "remove"
+  },
+  {
+    "target": "bin/c8pro-early-log",
+    "reference_sha256": null,
+    "kind": "remove"
+  },
+  {
+    "target": "bin/c8pro-sensorhub-boot",
+    "kind": "remove",
+    "reference_sha256": null
+  },
+  {
+    "target": "etc/init/c8pro-sensorhub.rc",
+    "kind": "remove",
+    "reference_sha256": null
+  },
+  {
+    "target": "lib/modules/c8pro_cam_power.ko",
+    "kind": "remove",
+    "reference_sha256": null
+  }
+]

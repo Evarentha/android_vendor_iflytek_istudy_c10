@@ -1,0 +1,2 @@
+on post-fs
+    # Use the built-in GT738x driver.

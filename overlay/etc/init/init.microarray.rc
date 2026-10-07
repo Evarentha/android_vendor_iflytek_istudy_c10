@@ -1,0 +1,7 @@
+on post-fs
+    # This vendor configuration does not load a Microarray fingerprint module.
+
+on post-fs-data
+#add for microarray fingerprint
+    chmod 660 /dev/madev0
+    chown system system /dev/madev0

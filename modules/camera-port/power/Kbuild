@@ -1,0 +1,2 @@
+obj-m += mitochodria_cam_power.o
+mitochodria_cam_power-y := mmsys_pw_domain_r6p0.o

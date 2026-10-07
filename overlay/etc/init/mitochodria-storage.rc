@@ -1,0 +1,14 @@
+# Mitochodria Emulated Storage Selection
+#
+# Selects the Android 9 ESDFS path before emulated storage is mounted.
+#
+# Authors:
+# worryzu <worryzu@gmail.com> @LinearTeam
+#
+# Copyright (C) 2026 Evarentha
+# SPDX-License-Identifier: MIT
+
+# Android 9 sdcard selects esdfs when force_off and esdfs is available.
+# Apply before vold mounts emulated storage; do not alter userdata contents.
+on post-fs-data
+    setprop persist.sys.sdcardfs force_off
